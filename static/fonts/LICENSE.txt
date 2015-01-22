@@ -1,0 +1,8 @@
+GLYPHICONS Halflings are also a part of Bootstrap from Twitter, and they are
+released under the same license as Bootstrap. While you are not required to
+include attribution on your Bootstrap-based projects, I would certainly
+appreciate a visible link back to GLYPHICONS.com in any place you find
+appropriate (footer, docs, etc).
+
+
+http://glyphicons.com
