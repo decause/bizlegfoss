@@ -2,7 +2,13 @@
 # Underscores will be replaced with spaces
 
 videos:
-  Linus_Torvalds_Git_Talk: "http://www.youtube.com/watch?v=4XpnKHJAok8"
+    Linus_Torvalds_Git_Talk: "http://www.youtube.com/watch?v=4XpnKHJAok8"
+    FSF_Software_Freedom_Promo: "https://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm"
+    What_is_Open_Source_Hardware: "https://www.youtube.com/watch?v=mWE0CrCVZKo"
+
+Articles:
+    FOSS@MAGIC: "http://foss.rit.edu"
+
 #challenges:
 #  How_To_Use_Bash: "http://lmgtfy.com/?q=how+to+use+bash"
 #decks:
