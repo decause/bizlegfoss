@@ -1,0 +1,128 @@
+Week 0  #1: Welcome, Syllabus, RTFM 
+
+        HW: FirstFlight
+        HW: Copyright: Law and Technolgy Timeline - http://bizlegfoss-ritigm.rhcloud.com/static/books/tc_law_and_technology_timeline.pdf
+
+        #2: Read SFLC FOSS Legal Primer: Preface, Chapter1, and Chapter 2
+
+
+Week 1  Licensing 
+
+        #2
+        HW: Read Chapter 1 of "GPL Compliance Guide v2.0"
+
+Week 2  CLA/EULA/TOS
+        Read iTunes TOS
+        Read Fedora CLA
+        Read PSF CLA
+        Assignment:
+            TOS Breakdown
+            List Headings and tl;dr for each Section
+            How are they the same/diff than other TOS/EULA
+
+
+Week 3  Patents/Trademarks
+
+        Patent Promise Programs
+            Red Hat
+            Google
+            IBM
+
+        Assignment:
+            Bust a Patent?
+            Find prior art?
+
+Week 4  Corporate Structures
+        What is an LLC/LLP/INC/S-Corp/NPO
+        HW: Read SFLC FOSS Legal Primer Chapter 3
+
+Week 5  Grokking Business Documents
+            Read 990
+            Read Annual Report
+
+        FOSS Business Models
+            Read OSI Biz Models
+
+        Lecture:    Creating a Profile
+
+Week 6  Profile #1 - Enterprise
+
+        Red Hat/Fedora
+        Canonoical/Ubuntu
+        Joyent/Node.js
+        M$/.NET
+        GitHub
+        Acquia/Drupal
+        Automatic/Wordpress
+        Apache/Hadoop
+        **TODOGroup/Google/Facebook** - May not be enough info
+
+Week 7  Profile #2 - Contemporary Issues
+        Open Hardware:  Raspberry Pi / Arduino
+        3D Printing:    Lulzbot / Makerbot
+        VirtualCurrency:    Coinbase
+
+        Action:
+            Reach out to Lulzbot
+            Reach out to Rob Bishop from Raspberry Pi
+
+Week 8  Profile #3 - Startups
+        CodeCombat
+        Matchstick.tv
+        Ouya
+        Lantern
+
+Week 9  AppStores/Crowdfunding
+        Crowdfunding/Platforms
+
+Week 10 Profile #4 - Crowdfunded
+        GooglePlayStore
+        Patreon
+        IndyGoGo
+        KickStarter
+        Gratipay
+        Flattr
+
+        Action:
+            Reach out to Kickstarter (Sam)
+
+Week 11 Civic/Humanitarian Hacking
+
+        Profile #5 - Civic/Humanitarian Hacking
+        Code For America
+        18F/Presidential Innovation Fellowship
+        SugarLabs/OLPC
+        Code.org
+        Ushahidi/CrisisCommons
+        CivicHall?
+
+        Action:
+            Reach out to Sean Herron/Jackie Kazil
+
+Week 12 Defense Against the Dark Arts/Emergency Management
+
+        Information Security Policy
+        Public Relations/Communications
+
+        Profile #6 - InfoSec/Consulting
+        OWASP
+        Rapid7 
+        BlackDuck/OpenHub
+
+Week 13 Profile #7 - Fiscal Sponsorship Orgs
+        Software Freedom Conservancy
+        Apache Software Foundation
+        Software in the Public Interest
+        Eclipse Foundation
+
+Week 14 Contracts/NDA/Non-compete
+
+Week 15 ????
+
+Week 16 Final Presentations
+        Include Panel of FOSS Biz Peeps
+
+
+Final Assignment:
+    - Create a Profile for a Company/Project you create
+    - Present Profile during Final Exam Slot
