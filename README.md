@@ -30,7 +30,7 @@ href="http://pypi.python.org/pypi/virtualenv">virtualenv</a>.  Run the
 following at the command prompt...
 
 On Linux/Mac OS X
-+++++++++++++++++
+-----------------
 
 If you don't have virtualenv installed yet, try::
 
@@ -52,7 +52,7 @@ Once you have virtualenv installed, you will install be able to run::
  $ . bizlegfossenv/bin/activate
 
 On Windows
-++++++++++
+----------
 
 At the windows command prompt::
 
@@ -69,7 +69,7 @@ Back in the windows command prompt::
 
 
 Installing Ofcourse
-===================
+-------------------
 
 Once you've forked the repo, and activated your virual environment, you can pip
 install the courseware that serves up the content of the course. Simply run::
