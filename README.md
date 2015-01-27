@@ -34,38 +34,38 @@ On Linux/Mac OS X
 
 If you don't have virtualenv installed yet, try::
 
- - <code>$ sudo easy_install virtualenv virtualenvwrapper</code>
+ <code>$ sudo easy_install virtualenv virtualenvwrapper</code>
 
 If you're using a distro like Fedora or Ubuntu, you should try this instead::
 
  Fedora:
- - <code>$ sudo yum install python-virtualenv</code>
+ <code>$ sudo yum install python-virtualenv</code>
 
  Ubuntu/Debian:
- - <code>$ sudo apt-get install python-virtualenv</code>
+ <code>$ sudo apt-get install python-virtualenv</code>
 
 Once you have virtualenv installed, you will install be able to run::
 
- - <code>$ cd code</code>
- - <code>$ git clone git@github.com:YOUR_USERNAME/bizlegfoss.git</code>
- - <code>$ virtualenv --no-site-packages -p python2 bizlegfossenv</code>
- - <code>$ . bizlegfossenv/bin/activate</code>
+ <code>$ cd code</code>
+ <code>$ git clone git@github.com:YOUR_USERNAME/bizlegfoss.git</code>
+ <code>$ virtualenv --no-site-packages -p python2 bizlegfossenv</code>
+ <code>$ . bizlegfossenv/bin/activate</code>
 
 On Windows
 ----------
 
 At the windows command prompt::
 
- - <code>$ virtualenv --no-site-packages -p python2 bizlegfossenv</code>
- - <code>$ bizlegfossenv/Scripts/activate.bat</code>
+ <code>$ virtualenv --no-site-packages -p python2 bizlegfossenv</code>
+ <code>$ bizlegfossenv/Scripts/activate.bat</code>
 
 In msysGit or git-bash::
 
- - <code>$ git clone git@github.com:YOUR_USERNAME/bizlegfoss.git</code>
+ <code>$ git clone git@github.com:YOUR_USERNAME/bizlegfoss.git</code>
 
 Back in the windows command prompt::
 
- - <code>$ cd bizlegfoss</code>
+ <code>$ cd bizlegfoss</code>
 
 
 Installing Ofcourse
@@ -74,7 +74,7 @@ Installing Ofcourse
 Once you've forked the repo, and activated your virual environment, you can pip
 install the courseware that serves up the content of the course. Simply run::
 
- - <code>$ pip install ofcourse</code>
+ <code>$ pip install ofcourse</code>
 
 
 Running Ofcourse
@@ -82,7 +82,7 @@ Running Ofcourse
 
 Once you've pip installed Ofcourse, you can then type::
 
- - <code>$ ofcourse run</code>
+ <code>$ ofcourse run</code>
 
 Which should run the courseware at <a target="_blank" href="http://127.0.0.1:5000">http://127.0.0.1:5000</a>
 
