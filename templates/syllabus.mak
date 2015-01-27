@@ -124,26 +124,20 @@ See: /static/bizlegalenvfoss.txt
     </tr>
   </thead>
   <tbody>
-    <tr><td>In-Class Participation</td>
-      <td class="center padded"><span class="label label-warning">00%</span></td>
-    </tr>
-    <tr><td>Quizzes</td>
-      <td class="center padded"><span class="label label-warning">00%</span></td>
-    </tr>
     <tr><td>Literature Reviews</td>
-      <td class="center padded"><span class="label label-warning">00%</span></td>
+      <td class="center padded"><span class="label label-info">10%</span></td>
     </tr>
-    <tr><td>Team Peer Assessment</td>
-      <td class="center padded"><span class="label label-info">00%</span></td>
+    <tr><td>Team Peer Assessments</td>
+      <td class="center padded"><span class="label label-info">10%</span></td>
     </tr>
-    <tr><td>Completed Project</td>
-      <td class="center padded"><span class="label label-info">00%</span></td>
-    </tr>
-    <tr><td>Final Presentation</td>
-      <td class="center padded"><span class="label label-success">00%</span></td>
+    <tr><td>In-Class Participation</td>
+      <td class="center padded"><span class="label label-success">25%</span></td>
     </tr>
     <tr><td>FOSS Dev Practices (Blog posts, commits, tickets, IRC)</td>
-      <td class="center padded"><span class="label label-success">20%</span></td>
+      <td class="center padded"><span class="label label-success">25%</span></td>
+    </tr>
+    <tr><td>Final Presentations</td>
+      <td class="center padded"><span class="label label-warning">30%</span></td>
     </tr>
   </tbody>
 </table>
