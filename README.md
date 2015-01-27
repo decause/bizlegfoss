@@ -47,8 +47,11 @@ If you're using a distro like Fedora or Ubuntu, you should try this instead::
 Once you have virtualenv installed, you will install be able to run::
 
  <code>$ cd code</code>
+
  <code>$ git clone git@github.com:YOUR_USERNAME/bizlegfoss.git</code>
+
  <code>$ virtualenv --no-site-packages -p python2 bizlegfossenv</code>
+
  <code>$ . bizlegfossenv/bin/activate</code>
 
 On Windows
@@ -57,6 +60,7 @@ On Windows
 At the windows command prompt::
 
  <code>$ virtualenv --no-site-packages -p python2 bizlegfossenv</code>
+
  <code>$ bizlegfossenv/Scripts/activate.bat</code>
 
 In msysGit or git-bash::
