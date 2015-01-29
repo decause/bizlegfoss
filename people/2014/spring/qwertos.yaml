@@ -1,0 +1,11 @@
+# vim: tabstop=2 expandtab shiftwidth=2 :
+---
+blog: http://aaron.herting.cc/
+feed: http://aaron.herting.cc/feeds/posts/default/-/RIT-BIZLEGFOSS/
+forges:
+  - http://github.com/qwertos
+  - http://bitbucket.org/qwertos
+irc: qwertos
+name: Aaron Herting
+rit_dce: adh2380
+
