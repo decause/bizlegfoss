@@ -1,7 +1,9 @@
 blog: http://dropofwill.herokuapp.com
-feed: http://dropofwill.herokuapp.com/feed.xml
+feed: http://dropofwill.herokuapp.com/bizleg_feed.xml
 forges:
   - https://github.com/dropofwill
 irc: dropofwill
 name: Will Paul
 rit_dce: whp3652
+hw:
+  firstflight: http://dropofwill.herokuapp.com/2015/01/30/first-flight-round-2/
