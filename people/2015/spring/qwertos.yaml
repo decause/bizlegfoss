@@ -8,4 +8,6 @@ forges:
 irc: qwertos
 name: Aaron Herting
 rit_dce: adh2380
+hw:
+  firstflight: http://aaron.herting.cc/2015/02/business-and-legal-aspects-of-foss.html
 
