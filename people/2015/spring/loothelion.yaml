@@ -1,8 +1,9 @@
 blog: http://gearchicken.com/blog/
 feed: http://gearchicken.com/blog/rss.xml
 forges:
-    - http://github.com/liam-middlebrook
+  - http://github.com/liam-middlebrook
 irc: loothelion
+name: loothelion
 rit_dce: ljm2906
 hw:
   firstflight: http://gearchicken.com/blog/2015/01/30/hello-world-2.html

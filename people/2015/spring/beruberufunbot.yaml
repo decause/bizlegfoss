@@ -1,9 +1,11 @@
 # These are not the droids you are looking for...
 # Unless, you know, they are
-
 blog: http://beru.co/blog
 feed: http://beru.co/blog/feeds/bizfoss.rss.xml
 forges:
   - https://github.com/berulacks
 irc: BeruBeruFunBot
+name: BeruBeruFunBot
 rit_dce: dmy4324
+hw:
+  firstflight: "url"
