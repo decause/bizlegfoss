@@ -4,3 +4,5 @@ forges:
   - https://github.com/nolski
 irc: Nolski
 rit_dce: mpn3712
+hw:
+  firstflight: https://nolski.rocks/first-flight/
