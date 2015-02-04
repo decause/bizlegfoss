@@ -3,4 +3,7 @@ feed: http://h2g2guy.wordpress.com/feed/
 forges:
     - http://github.com/h2g2guy
 irc: h2g2guy
+name: h2g2guy
 rit_dce: jht6437
+hw:
+  firstflight: "url"

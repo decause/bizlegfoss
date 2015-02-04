@@ -1,4 +1,4 @@
-name: Matt Soucy
+name: msoucy
 blog: http://msoucy.me
 feed: http://msoucy.me/feeds/tag/bizlegfoss.atom.xml
 forges:
@@ -12,4 +12,4 @@ bio: Fourth-year Computer Science major, CSHer, and Captain of the FOSS Box
 github: msoucy
 coderwall: msoucy
 hw:
-    firstflight: http://msoucy.me/2015/02/bizleg-firstflight/
+  firstflight: http://msoucy.me/2015/02/bizleg-firstflight/
