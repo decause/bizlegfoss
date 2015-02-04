@@ -5,3 +5,5 @@ forges:
 irc: jeid64
 name: jeid64
 rit_dce: jxe6210
+hw:
+  firstflight: "url"

@@ -5,3 +5,5 @@ forges:
 irc: beWhitty
 name: beWhitty
 rit_dce: bcw7044
+hw:
+  firstflight: "url"

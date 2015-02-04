@@ -5,4 +5,5 @@ forges:
 irc: kocsen
 name: Kocsen
 rit_dce: kxc4519
-firstflight: http://kocsen-hfoss.blogspot.com/2015/02/first-flight.html
+hw:
+  firstflight: http://kocsen-hfoss.blogspot.com/2015/02/first-flight.html

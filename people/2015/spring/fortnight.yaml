@@ -5,4 +5,5 @@ forges:
 irc: fortnight
 name: fortnight
 rit_dce: fortnight
-firstflight: http://blog-fortnight.rhcloud.com/first-flight-streching-out-my-biz-legs/
+hw:
+  firstflight: http://blog-fortnight.rhcloud.com/first-flight-streching-out-my-biz-legs/
