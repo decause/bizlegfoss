@@ -3,5 +3,7 @@ feed: http://pharaskn.blogspot.com/feeds/posts/default
 forges:
  - https://github.com/Pharas
 irc: Pharas
+name: Pharas
 rit_dce: bke2759
-firstflight: http://pharaskn.blogspot.com/2015/02/business-and-legal-aspects-of-foss.html
+hw:
+  firstflight: http://pharaskn.blogspot.com/2015/02/business-and-legal-aspects-of-foss.html

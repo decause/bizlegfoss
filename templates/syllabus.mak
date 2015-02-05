@@ -95,8 +95,12 @@
   licenses, you may be in the wrong course.</p>
 </div>
 
-
-See: /static/bizlegalenvfoss.txt
+<div class="section">
+  <a class="headerlink" name="schedule"></a>
+  <h2>Licensing</h2>
+  <p>
+    See: <a target="_blank" href="/static/bizlegalenvfoss.txt">Course Outline</a>
+  </p>
 
 <div class="section">
     <a class="headerlink" name="attendance"></a>
