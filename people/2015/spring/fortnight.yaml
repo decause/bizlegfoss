@@ -4,4 +4,7 @@ forges:
   - http://github.com/fortnight
 irc: fortnight
 rit_dce: fortnight
-firstflight: http://blog-fortnight.rhcloud.com/first-flight-streching-out-my-biz-legs/
+hw:
+  firstflight: http://blog-fortnight.rhcloud.com/first-flight-streching-out-my-biz-legs/
+  litreview0: http://blog-fortnight.rhcloud.com/litreview0-a-legal-issues-premier-for-open-source-and-free-software-projects/
+  vidreview0: http://blog-fortnight.rhcloud.com/videoreview0-everything-is-a-remix/
