@@ -1,0 +1,18 @@
+name: msoucy
+blog: http://msoucy.me
+feed: http://msoucy.me/feeds/tag/bizlegfoss.atom.xml
+forges:
+  - http://github.com/msoucy
+  - http://bitbucket.org/msoucy
+  - http://code.msoucy.me
+irc: msoucy
+rit_dce: mas5997
+twitter: msoucy93
+bio: Fourth-year Computer Science major, CSHer, and Captain of the FOSS Box
+github: msoucy
+coderwall: msoucy
+hw:
+  firstflight: http://msoucy.me/2015/02/bizleg-firstflight/
+  litreview0: http://msoucy.me/2015/02/litreview-fossprimer/
+  vidreview0: http://msoucy.me/2015/02/litreview-everything-remix/
+  litreview1: http://msoucy.me/2015/02/litreview-gpl-compliance-ch1/

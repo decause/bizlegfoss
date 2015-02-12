@@ -1,49 +1,88 @@
-Week 0  #1: Welcome, Syllabus, RTFM 
+Week 0  Welcome, Syllabus, RTFM 
 
-        HW: FirstFlight
-        HW: Copyright: Law and Technolgy Timeline - http://bizlegfoss-ritigm.rhcloud.com/static/books/tc_law_and_technology_timeline.pdf
+        #1  AHW: FirstFlight - http://bizlegfoss-ritigm.rhcloud.com/hw/firstflight
+            AHW: Copyright: Law and Technolgy Timeline - http://bizlegfoss-ritigm.rhcloud.com/static/books/tc_law_and_technology_timeline.pdf
 
-        #2: Read SFLC FOSS Legal Primer: Preface, Chapter1, and Chapter 2
+        #2: AHW: vidreview0: Everything is a Remix - https://www.youtube.com/watch?v=coGpmA4saEk
 
 
 Week 1  Licensing 
 
-        #2
-        HW: Read Chapter 1 of "GPL Compliance Guide v2.0"
+        #1  AHW: READ SFLC Legal Primer - Preface, Chapter 1, Chapter 2 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
+            DHW: FirstFlight - http://bizlegfoss-ritigm.rhcloud.com/hw/firstflight
 
-Week 2  CLA/EULA/TOS
-        Read iTunes TOS
-        Read Fedora CLA
-        Read PSF CLA
-        Assignment:
-            TOS Breakdown
-            List Headings and tl;dr for each Section
-            How are they the same/diff than other TOS/EULA
+        #2  AHW: Read Comprehensive GPL Guide: , Chapter1 - http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf
+            DHW: Read SFLC FOSS Legal Primer: Preface, Chapter1, and Chapter 2 -http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
+            DHW: vidreview0: Everything is a Remix - https://www.youtube.com/watch?v=coGpmA4saEk
+            Discuss: vidreview0 and litreview1
+
+Week 2  Software Freedom, CLA/EULA/TOS
+
+        #1  Discuss: Software Freedom 
+
+            DHW: litreview2 - Read Comprehensive GPL Guide: Chapter1 - http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf
+
+            AHW: Read iTunes TOS - https://www.apple.com/legal/internet-services/itunes/us/terms.html
+            AHW: Read Fedora Project Contributors Agreement - https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement 
+            AHW: Read Python Software Foundation CLA - http://legacy.python.org/psf/contrib/contrib-form/contributor-agreement.pdf
+
+        #2  Discuss: EULA/TOS/CLA
+
+            DHW: Read iTunes TOS - https://www.apple.com/legal/internet-services/itunes/us/terms.html
+            DHW: Read Fedora Project Contributors Agreement - https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement 
+            DHW: Read Python Software Foundation CLA - http://legacy.python.org/psf/contrib/contrib-form/contributor-agreement.pdf
+
+            AHW: Read SFLC FOSS Legal Primer: Chapter 4 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
 
 
 Week 3  Patents/Trademarks
 
-        Patent Promise Programs
-            Red Hat
-            Google
-            IBM
+        #1: Discuss: SFLC FOSS Legal Primer Chapter 4 - Patents
+            DHW: Read SFLC FOSS Legal Primer: Chapter 4 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
+            AHW: Read SFLC FOSS Legal Primer: Chapter 5 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
+            AHW: vidreview2: All Things Open - Karen Sandler - Trademarks and Your Free and Open Source Software Project https://www.youtube.com/watch?v=JY6AtbtAuts
+            AHW: Read Patent Promise Comparisons - https://www.redhat.com/magazine/001nov04/features/patents/
 
-        Assignment:
-            Bust a Patent?
-            Find prior art?
+            AHW: Form 3 Groups, each group must analyze Patent Promise
+            Programs in one of the organizations:
+                Red Hat
+                Google
+                IBM
+
+        #2: Discuss: vidreview2, SFLC Legal Primer (foss-primer) Chapter 5 - Trademarks
+
+            DHW: Read Patent Promise Comparisons - https://www.redhat.com/magazine/001nov04/features/patents/
+            DHW: Read SFLC FOSS Legal Primer: Chapter 5 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf 
+            DHW: vidreview2: All Things Open - Karen Sandler - Trademarks and Your Free and Open Source Software Project https://www.youtube.com/watch?v=JY6AtbtAuts
+            AHW: Read SFLC FOSS Legal Primer: Chapter 3 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
 
 Week 4  Corporate Structures
-        What is an LLC/LLP/INC/S-Corp/NPO
-        HW: Read SFLC FOSS Legal Primer Chapter 3
+
+        #1  Discuss: SFLC FOSS Legal Primer Chapter 3
+
+            DHW: Read SFLC FOSS Legal Primer: Chapter 3 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
+
+            AHW: Read http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1
+            AHW: Read OSI Biz Models - http://opensource.org/advocacy/case_for_business.php
+
+        #2  Discuss: OSI Biz Models, comprehensive-gpl-guide section 12.1, and other Business Models
+
+            DHW: Read http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1
+            DHW: Read OSI Biz Models - http://opensource.org/advocacy/case_for_business.php
+
+            AHW: Read a 990 (decause)
+            AHW: Read an Annual Report (decause)
+            AHW: Read and Grok bizprofile http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html
 
 Week 5  Grokking Business Documents
-            Read 990
-            Read Annual Report
 
-        FOSS Business Models
-            Read OSI Biz Models
+        #1  Discuss: Creating a Profile
 
-        Lecture:    Creating a Profile
+        DHW: Read a 990 (decause)
+        DHW: Read an Annual Report (decause)
+        AHW: Fill out teamproposal
+
+        #2  Profile and Team Selection
 
 Week 6  Profile #1 - Enterprise
 
