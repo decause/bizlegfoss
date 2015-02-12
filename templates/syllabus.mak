@@ -97,7 +97,7 @@
 
 <div class="section">
   <a class="headerlink" name="schedule"></a>
-  <h2>Licensing</h2>
+  <h2>Schedule</h2>
   <p>
     See: <a target="_blank" href="/static/bizlegalenvfoss.txt">Course Outline</a>
   </p>
