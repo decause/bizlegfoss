@@ -3,7 +3,10 @@ feed: http://blog-fortnight.rhcloud.com/rss
 forges:
   - http://github.com/fortnight
 irc: fortnight
-name: fortnight
 rit_dce: fortnight
 hw:
   firstflight: http://blog-fortnight.rhcloud.com/first-flight-streching-out-my-biz-legs/
+  litreview0: http://blog-fortnight.rhcloud.com/litreview0-a-legal-issues-premier-for-open-source-and-free-software-projects/
+  vidreview0: http://blog-fortnight.rhcloud.com/videoreview0-everything-is-a-remix/
+  litreview1: http://blog-fortnight.rhcloud.com/litreview1-copyleft-and-the-gnu-gpl-a-comprehensive-total-guide/
+  litreview2: http://blog-fortnight.rhcloud.com/litreview2-itunes-tos-fedora-project-contributors-agreement-python-software-foundation-cla/
