@@ -35,54 +35,64 @@ Week 2  Software Freedom, CLA/EULA/TOS
             AHW: Read SFLC FOSS Legal Primer: Chapter 4 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
 
 
-Week 3  Patents/Trademarks
+Week 3  Patents
 
-        #1: Discuss: SFLC FOSS Legal Primer Chapter 4 - Patents
+        #1: CLASS CANCELLED - DUE litreview3
             DHW: Read SFLC FOSS Legal Primer: Chapter 4 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
-            AHW: Read SFLC FOSS Legal Primer: Chapter 5 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
-            AHW: vidreview2: All Things Open - Karen Sandler - Trademarks and Your Free and Open Source Software Project https://www.youtube.com/watch?v=JY6AtbtAuts
+
+            AHW: Read Red Hat Patent Promise - http://www.redhat.com/legal/patent_policy.html
+            AHW: Read IBM Patent Promise - http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf
+            AHW: Read Google Patent Pledge - https://www.google.com/patents/opnpledge/pledge/ (including /patents/)
             AHW: Read Patent Promise Comparisons - https://www.redhat.com/magazine/001nov04/features/patents/
 
-            AHW: Form 3 Groups, each group must analyze Patent Promise
-            Programs in one of the organizations:
-                Red Hat
-                Google
-                IBM
+        #2: Discuss: SFLC Legal Primer (foss-primer) Chapter 4 - Patents
 
-        #2: Discuss: vidreview2, SFLC Legal Primer (foss-primer) Chapter 5 - Trademarks
-
+            Due Litreview4 (IBM/Google/RedHat Patent Programs all-in-one review)
+            DHW: Read Red Hat Patent Promise - http://www.redhat.com/legal/patent_policy.html
+            DHW: Read IBM Patent Promise - http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf
+            DHW: Read Google Patent Pledge - https://www.google.com/patents/opnpledge/pledge/ (including /patents)
             DHW: Read Patent Promise Comparisons - https://www.redhat.com/magazine/001nov04/features/patents/
-            DHW: Read SFLC FOSS Legal Primer: Chapter 5 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf 
-            DHW: vidreview2: All Things Open - Karen Sandler - Trademarks and Your Free and Open Source Software Project https://www.youtube.com/watch?v=JY6AtbtAuts
+
+            AHW: Read SFLC FOSS Legal Primer: Chapter 5 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
+
+
+Week 4  Trademarks
+
+        #1  Discuss: SFLC FOSS Legal Primer Chapter 5 - Trademarks
+
+            DHW: litreview5: Read SFLC FOSS Legal Primer: Chapter 5 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf 
+
+            AHW: vidreview2: All Things Open - Karen Sandler - Trademarks and Your FOSS Project https://www.youtube.com/watch?v=JY6AtbtAuts
+
+
+        #2  Discuss: vidreview2: ALl Things Open - Karen Sandler - https://www.youtube.com/watch?v=JY6AtbtAuts
+
+            DHW: vidreview2: All Things Open - Karen Sandler - https://www.youtube.com/watch?v=JY6AtbtAuts
+
             AHW: Read SFLC FOSS Legal Primer: Chapter 3 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
 
-Week 4  Corporate Structures
 
-        #1  Discuss: SFLC FOSS Legal Primer Chapter 3
 
-            DHW: Read SFLC FOSS Legal Primer: Chapter 3 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
+Week 5  Biz Models / Corporate Structures
 
+        #2  Discuss: Profile Overview and SFLC Legal Primer Chapter 3 and other Business Models
+
+            AHW: Read and Grok "The Profile" - http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html
+            AHW: Fill out teamproposal - (http://bizlegfoss-ritigm.rhcloud.com/static/hw/teamproposal.html)
             AHW: Read http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1
             AHW: Read OSI Biz Models - http://opensource.org/advocacy/case_for_business.php
 
-        #2  Discuss: OSI Biz Models, comprehensive-gpl-guide section 12.1, and other Business Models
 
+        #2  Discuss: Team Selection, OSI Biz Models, comprehensive-gpl-guide section 12.1
+
+            DHW teamprop0: Fill out teamproposal - (http://bizlegfoss-ritigm.rhcloud.com/static/hw/teamproposal.html)
+            Due: litreview6: (OSI Biz Models and comprehensive-gpl-guide 12.1)
             DHW: Read http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1
             DHW: Read OSI Biz Models - http://opensource.org/advocacy/case_for_business.php
 
-            AHW: Read a 990 (decause)
-            AHW: Read an Annual Report (decause)
-            AHW: Read and Grok bizprofile http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html
+            AHW: Read a 990 (decause)?
+            AHW: Read an Annual Report (decause)?
 
-Week 5  Grokking Business Documents
-
-        #1  Discuss: Creating a Profile
-
-        DHW: Read a 990 (decause)
-        DHW: Read an Annual Report (decause)
-        AHW: Fill out teamproposal
-
-        #2  Profile and Team Selection
 
 Week 6  Profile #1 - Enterprise
 
