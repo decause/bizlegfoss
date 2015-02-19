@@ -3,6 +3,7 @@ feed: Kaffys.github.io/feed
 forges:
   - https://github.com/Kaffys
 irc: Kaffys
+name: Kaffys
 rit_dce: kat1219
 hw:
      firstflight: http://kaffys.github.io/bizleg/2015/02/03/first-flight.html
@@ -10,3 +11,4 @@ hw:
      litreview1: http://kaffys.github.io/bizleg/2015/02/05/litreview1.html
      litreview2: http://kaffys.github.io/bizleg/2015/02/10/litreview2.html
      litreview3: http://kaffys.github.io/bizleg/2015/02/12/litreview2.html
+     litreview4: http://kaffys.github.io/bizleg/2015/02/19/litreview4.html
