@@ -7,3 +7,5 @@ name: Nolski
 rit_dce: mpn3712
 hw:
   firstflight: https://nolski.rocks/first-flight/
+  litreview0: https://nolski.rocks/foss-primer-review/
+  litreview1: https://nolski.rocks/lit-review-triple-threat/
