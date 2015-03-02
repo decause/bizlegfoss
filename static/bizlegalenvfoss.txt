@@ -106,25 +106,35 @@ Week 6  Profile #1 - Enterprise
         Apache/Hadoop
         **TODOGroup/Google/Facebook** - May not be enough info
 
-Week 7  Profile #2 - Contemporary Issues
+Week 7  Roc.py & Fiscal Sponsorship Orgs
+
+Week 8  Spring Break
+
+Week 9  Profile #2 - Fiscal Sponsorship Orgs
+        Software Freedom Conservancy
+        Apache Software Foundation
+        Software in the Public Interest
+        Eclipse Foundation
+
+Week 10 Profile #3 - Contemporary Issues / Startups
         Open Hardware:  Raspberry Pi / Arduino
         3D Printing:    Lulzbot / Makerbot
         VirtualCurrency:    Coinbase
 
-        Action:
-            Reach out to Lulzbot
-            Reach out to Rob Bishop from Raspberry Pi
-
-Week 8  Profile #3 - Startups
         CodeCombat
         Matchstick.tv
         Ouya
         Lantern
 
-Week 9  AppStores/Crowdfunding
-        Crowdfunding/Platforms
+        Action:
+            Reach out to Lulzbot
+            Reach out to Rob Bishop from Raspberry Pi
 
-Week 10 Profile #4 - Crowdfunded
+
+        
+
+Week 11/12  Profile #4 - AppStores/Crowdfunding/Crowdfunded
+        Crowdfunding/Platforms
         GooglePlayStore
         Patreon
         IndyGoGo
@@ -135,9 +145,9 @@ Week 10 Profile #4 - Crowdfunded
         Action:
             Reach out to Kickstarter (Sam)
 
-Week 11 Civic/Humanitarian Hacking
+Week 13 Profile #5 - Civic/Humanitarian Hacking &
+        Defense Against the Dark Arts/Emergency Management
 
-        Profile #5 - Civic/Humanitarian Hacking
         Code For America
         18F/Presidential Innovation Fellowship
         SugarLabs/OLPC
@@ -145,24 +155,16 @@ Week 11 Civic/Humanitarian Hacking
         Ushahidi/CrisisCommons
         CivicHall?
 
-        Action:
-            Reach out to Sean Herron/Jackie Kazil
-
-Week 12 Defense Against the Dark Arts/Emergency Management
-
         Information Security Policy
         Public Relations/Communications
 
-        Profile #6 - InfoSec/Consulting
+        InfoSec/Consulting
         OWASP
         Rapid7 
         BlackDuck/OpenHub
 
-Week 13 Profile #7 - Fiscal Sponsorship Orgs
-        Software Freedom Conservancy
-        Apache Software Foundation
-        Software in the Public Interest
-        Eclipse Foundation
+        Action:
+            Reach out to Sean Herron/Jackie Kazil
 
 Week 14 Contracts/NDA/Non-compete
 
