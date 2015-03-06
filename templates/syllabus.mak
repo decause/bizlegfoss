@@ -304,7 +304,7 @@
             <td>
                 <p class="topic ">
                 <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Read "The Profile"</a> <br><br>
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a> <br><br>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Enterprise</em></a> <br><br>
                 Lit Review 7: <br>
                 <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1">Read GPL Guide Chapter 12 Section 1</a> <br><br>
                 <a target="_blank" href=" http://opensource.org/advocacy/case_for_business.php">Read OSI Business Models</a>
@@ -320,17 +320,17 @@
             <td>03/05</td>
             <td>
                 <p class="topic guest">
-                IRC CLASS <br><br>
+                IRC CLASS - Decasue @ SIGSE<br><br>
                 Discuss: Team Selection,<a target="_blank" href="http://opensource.org/advocacy/case_for_business.php">OSI Biz Models</a>, <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1">GPL Guide Chapter 12 Section 1</a>
                 </p>
             </td>
 
             <td>
-                
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Enterprise</a>
             </td>
 
             <td>
-                <a target="_blank" href="/static/hw/teamproposal.html"><em>Homework - Team Proposal</em></a>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Enterprise</em></a>
                 <br><br>
                 Lit Review 7: <br>
                 <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1">Read GPL Guide Chapter 12 Section 1</a> <br><br>
@@ -343,27 +343,29 @@
             <td class="sessionnumber">0</td>
             <td>03/10</td>
             <td>
-                Enterprise
+                Presentations - Enterprise
             </td>
 
             <td>
+
             </td>
 
             <td>
-                
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Enterprise</a>
             </td>
         </tr><tr>
             <td class="sessionnumber">1</td>
             <td>03/12</td>
             <td>
-                Enterprise
+                Presentations - Enterprise
             </td>
 
             <td>
-                
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Fiscal Sponsorship Orgs</em></a> 
             </td>
 
             <td>
+            
             </td>
 
         </tr>
@@ -388,14 +390,15 @@
             <td class="sessionnumber">1</td>
             <td>03/19</td>
             <td>
-                Contemporary Issues
+                Discuss Fiscal Sponsorship Orgs
             </td>
 
             <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Fiscal Sponsorship Orgs</a>
             </td>
 
             <td>
-                
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Fiscal Sponsorship Orgs</em></a>
             </td>
 
         </tr>
@@ -437,14 +440,17 @@
             <td>03/31</td>
             <td>
                 <p class="topic ">
-                TBD
+                Presentations - Fiscal Sponsorship Orgs
                 </p>
             </td>
 
             <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Startups/Contemporary Issues</em></a>
+            	
             </td>
 
             <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Fiscal Sponsorship Orgs</a>
             </td>
 
         </tr><tr>
@@ -452,14 +458,16 @@
             <td>04/02</td>
             <td>
                 <p class="topic ">
-                TBD
+                Presentations - Fiscal Sponsorship Orgs
                 </p>
             </td>
 
             <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Startups/Contemporary Issues</a>
             </td>
 
             <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Startups/Contemporary Issues</em></a>
             </td>
 
         </tr>
@@ -468,25 +476,29 @@
             <td class="sessionnumber">0</td>
             <td>04/07</td>
             <td>
-                TBD
+                Presentations - Startups/Contemporary Issues
             </td>
 
             <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Crowdfunding/ed & Appstores</em></a>
             </td>
 
             <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Startups/Contemporary Issues</a>
             </td>
         </tr><tr>
             <td class="sessionnumber">1</td>
             <td>04/09</td>
             <td>
-                TBD
+                Presentations - Startups/Contemporary Issues
             </td>
 
             <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Crowdfunding/ed & Appstores</a>
             </td>
 
             <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Crowdfunding/ed & Appstores</em></a>
             </td>
         </tr>
         <tr>
@@ -508,13 +520,15 @@
             <td class="sessionnumber">1</td>
             <td>04/16</td>
             <td>
-                TBD
+                Presentations - Crowdfunding/ed & Appstores
             </td>
 
             <td>
+            <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Civic Hacking / Dark Arts</a>
             </td>
 
             <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Crowdfunding/ed & Appstores</a>
             </td>
 
         </tr>
@@ -538,7 +552,7 @@
             <td class="sessionnumber">1</td>
             <td>04/23</td>
             <td>
-                TBD
+                Presentations - Crowdfunding/ed & Appstores
             </td>
 
             <td>
@@ -546,6 +560,7 @@
             </td>
 
             <td>
+            	
             </td>
 
         </tr><tr>
@@ -553,13 +568,15 @@
             <td class="sessionnumber">0</td>
             <td>04/28</td>
             <td>
-                TBD
+                Presentations - Civic Hacking / Dark Arts
             </td>
 
             <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Choose Your Own</em></a>
             </td>
 
             <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Civic Hacking / Dark Arts</a>
             </td>
 
         </tr>
@@ -567,20 +584,22 @@
             <td class="sessionnumber">1</td>
             <td>04/30</td>
             <td>
-                TBD
+                Presentations - Civic Hacking / Dark Arts
             </td>
 
             <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Choose Your Own</a>
             </td>
 
             <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Choose Your Own</em></a>
             </td>
         </tr><tr>
             <td rowspan ="2">14</td>
             <td class="sessionnumber">0</td>
             <td>05/05</td>
             <td>
-                TBD
+                NDA's, Non-Competes, etc.
             </td>
 
             <td>
@@ -594,7 +613,7 @@
             <td class="sessionnumber">1</td>
             <td>05/07</td>
             <td>
-                TBD
+                NDA's, Non-Competes, etc.
             </td>
 
             <td>
@@ -604,7 +623,7 @@
             </td>
 
         </tr><tr>
-            <td rowspan ="1">14</td>
+            <td rowspan ="1">15</td>
             <td class="sessionnumber">0</td>
             <td>05/12</td>
             <td>
@@ -619,17 +638,18 @@
 
         </tr>
         <tr>
-            <td rowspan="1">15</td>
+            <td rowspan="1">16</td>
             <td class="sessionnumber">0</td>
             <td>05/19</td>
             <td>
-                FINAL
+                FINAL Presentations - Choose Your Own
             </td>
 
             <td>
             </td>
 
             <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Choose Your Own</a>
             </td>
         </tr>
         </tbody>
