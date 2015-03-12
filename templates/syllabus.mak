@@ -177,7 +177,7 @@
             <td>02/05</td>
             <td>
                 <p class="topic ">
-                Dicsuss: Video Review 0, Lit Review 0 
+                Discuss: Video Review 0, Lit Review 0
                 </p>
             </td>
 
@@ -251,7 +251,7 @@
             </td>
 
             <td>
-                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 5: SFLC Legal Primer Chpater 5</a>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 5: SFLC Legal Primer Chapter 5</a>
             </td>
 
             <td>
@@ -274,7 +274,7 @@
             </td>
 
             <td>
-                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 5: SFLC Legal Primer Chpater 5</a>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 5: SFLC Legal Primer Chapter 5</a>
             </td>
         </tr><tr>
             <td class="sessionnumber">1</td>
