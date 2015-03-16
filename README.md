@@ -1,6 +1,8 @@
 BIZLEGFOSS
 ==========
 
+[![test status](https://api.travis-ci.org/decause/bizlegfoss.svg)](https://travis-ci.org/decause/bizlegfoss)
+
 This is the content repository for the <a target="_blank"
 href="http://rit.edu">RIT</a> <a target="_blank"
 href="http://igm.rit.edu">Department of Interactive Games and Media</a> Legal

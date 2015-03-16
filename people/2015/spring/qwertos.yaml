@@ -9,3 +9,15 @@ name: qwertos
 rit_dce: adh2380
 hw:
   firstflight: http://aaron.herting.cc/2015/02/business-and-legal-aspects-of-foss.html
+  vidreview0: http://aaron.herting.cc/2015/02/video-review-everything-is-remix.html
+  # litreview0 is queued to be published 2/8/15 at 1200 (Blog flood prevention)
+  litreview0: http://aaron.herting.cc/2015/02/literature-review-legal-issues-primer.html
+  litreview1: http://aaron.herting.cc/2015/02/literature-review-copyleft-and-gnu.html
+  litreview3: http://aaron.herting.cc/2015/02/literature-review-legal-issues-primer_19.html
+  # litreview4 is queued to be published 2/20/15 at noon (Flood Prevention)
+  litreview4: http://aaron.herting.cc/2015/02/literature-review-patent-promises.html
+  litreview7: http://aaron.herting.cc/2015/03/literature-review-copyleft-and-gnu.html
+  teamprop0: http://aaron.herting.cc/2015/03/profile-proposal-governmentgithubcom.html
+  profile0: http://aaron.herting.cc/2015/03/profile-github_12.html
+  # teamprop1: 3/13/15 1200
+  teamprop1: http://aaron.herting.cc/2015/03/profile-proposal-linux-foundation.html

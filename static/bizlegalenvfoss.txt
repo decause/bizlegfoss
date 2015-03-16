@@ -14,46 +14,85 @@ Week 1  Licensing
         #2  AHW: Read Comprehensive GPL Guide: , Chapter1 - http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf
             DHW: Read SFLC FOSS Legal Primer: Preface, Chapter1, and Chapter 2 -http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
             DHW: vidreview0: Everything is a Remix - https://www.youtube.com/watch?v=coGpmA4saEk
+            Discuss: vidreview0 and litreview1
 
-Week 2  CLA/EULA/TOS
+Week 2  Software Freedom, CLA/EULA/TOS
 
-        #1  AHW: Read iTunes TOS - https://www.apple.com/legal/internet-services/itunes/us/terms.html
+        #1  Discuss: Software Freedom 
+
+            DHW: litreview2 - Read Comprehensive GPL Guide: Chapter1 - http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf
+
+            AHW: Read iTunes TOS - https://www.apple.com/legal/internet-services/itunes/us/terms.html
             AHW: Read Fedora Project Contributors Agreement - https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement 
             AHW: Read Python Software Foundation CLA - http://legacy.python.org/psf/contrib/contrib-form/contributor-agreement.pdf
 
-        #2  DHW: Read iTunes TOS - https://www.apple.com/legal/internet-services/itunes/us/terms.html
+        #2  Discuss: EULA/TOS/CLA
+
+            DHW: Read iTunes TOS - https://www.apple.com/legal/internet-services/itunes/us/terms.html
             DHW: Read Fedora Project Contributors Agreement - https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement 
             DHW: Read Python Software Foundation CLA - http://legacy.python.org/psf/contrib/contrib-form/contributor-agreement.pdf
 
-Week 3  Patents/Trademarks
+            AHW: Read SFLC FOSS Legal Primer: Chapter 4 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
 
-        #1: AHW: Read SFLC FOSS Legal Primer: Chapter 4 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf 
+
+Week 3  Patents
+
+        #1: CLASS CANCELLED - DUE litreview3
+            DHW: Read SFLC FOSS Legal Primer: Chapter 4 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
+
+            AHW: Read Red Hat Patent Promise - http://www.redhat.com/legal/patent_policy.html
+            AHW: Read IBM Patent Promise - http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf
+            AHW: Read Google Patent Pledge - https://www.google.com/patents/opnpledge/pledge/ (including /patents/)
             AHW: Read Patent Promise Comparisons - https://www.redhat.com/magazine/001nov04/features/patents/
 
-            AHW: Form 3 Groups, each group must analyze Patent Promise
-            Programs in each of the organizations:
-                Red Hat
-                Google
-                IBM
+        #2: Discuss: SFLC Legal Primer (foss-primer) Chapter 4 - Patents
 
-        #2: AHW: Read SFLC FOSS Legal Primer: Chapter 5 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf 
-            AHW: vidreview2: All Things Open - Karen Sandler - Trademarks and Your Free and Open Source Software Project https://www.youtube.com/watch?v=JY6AtbtAuts
+            Due Litreview4 (IBM/Google/RedHat Patent Programs all-in-one review)
+            DHW: Read Red Hat Patent Promise - http://www.redhat.com/legal/patent_policy.html
+            DHW: Read IBM Patent Promise - http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf
+            DHW: Read Google Patent Pledge - https://www.google.com/patents/opnpledge/pledge/ (including /patents)
+            DHW: Read Patent Promise Comparisons - https://www.redhat.com/magazine/001nov04/features/patents/
 
-Week 4  Corporate Structures
-        What is an LLC/LLP/INC/S-Corp/NPO
+            AHW: Read SFLC FOSS Legal Primer: Chapter 5 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
 
-        #1  AHW: Read SFLC FOSS Legal Primer: Chapter 3 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
 
-        #2  DHW: 
+Week 4  Trademarks
 
-Week 5  Grokking Business Documents
-            Read 990
-            Read Annual Report
+        #1  Discuss: SFLC FOSS Legal Primer Chapter 5 - Trademarks
 
-        FOSS Business Models
-            Read OSI Biz Models
+            DHW: litreview5: Read SFLC FOSS Legal Primer: Chapter 5 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf 
 
-        Lecture:    Creating a Profile
+            AHW: vidreview2: All Things Open - Karen Sandler - Trademarks and Your FOSS Project https://www.youtube.com/watch?v=JY6AtbtAuts
+
+
+        #2  Discuss: vidreview2: ALl Things Open - Karen Sandler - https://www.youtube.com/watch?v=JY6AtbtAuts
+
+            DHW: vidreview2: All Things Open - Karen Sandler - https://www.youtube.com/watch?v=JY6AtbtAuts
+
+            AHW: Read SFLC FOSS Legal Primer: Chapter 3 - http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf
+
+
+
+Week 5  Biz Models / Corporate Structures
+
+        #2  Discuss: Profile Overview and SFLC Legal Primer Chapter 3 and other Business Models
+
+            AHW: Read and Grok "The Profile" - http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html
+            AHW: Fill out teamproposal - (http://bizlegfoss-ritigm.rhcloud.com/static/hw/teamproposal.html)
+            AHW: Read http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1
+            AHW: Read OSI Biz Models - http://opensource.org/advocacy/case_for_business.php
+
+
+        #2  Discuss: Team Selection, OSI Biz Models, comprehensive-gpl-guide section 12.1
+
+            DHW teamprop0: Fill out teamproposal - (http://bizlegfoss-ritigm.rhcloud.com/static/hw/teamproposal.html)
+            Due: litreview6: (OSI Biz Models and comprehensive-gpl-guide 12.1)
+            DHW: Read http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1
+            DHW: Read OSI Biz Models - http://opensource.org/advocacy/case_for_business.php
+
+            AHW: Read a 990 (decause)?
+            AHW: Read an Annual Report (decause)?
+
 
 Week 6  Profile #1 - Enterprise
 
@@ -67,25 +106,35 @@ Week 6  Profile #1 - Enterprise
         Apache/Hadoop
         **TODOGroup/Google/Facebook** - May not be enough info
 
-Week 7  Profile #2 - Contemporary Issues
+Week 7  Roc.py & Fiscal Sponsorship Orgs
+
+Week 8  Spring Break
+
+Week 9  Profile #2 - Fiscal Sponsorship Orgs
+        Software Freedom Conservancy
+        Apache Software Foundation
+        Software in the Public Interest
+        Eclipse Foundation
+
+Week 10 Profile #3 - Contemporary Issues / Startups
         Open Hardware:  Raspberry Pi / Arduino
         3D Printing:    Lulzbot / Makerbot
         VirtualCurrency:    Coinbase
 
-        Action:
-            Reach out to Lulzbot
-            Reach out to Rob Bishop from Raspberry Pi
-
-Week 8  Profile #3 - Startups
         CodeCombat
         Matchstick.tv
         Ouya
         Lantern
 
-Week 9  AppStores/Crowdfunding
-        Crowdfunding/Platforms
+        Action:
+            Reach out to Lulzbot
+            Reach out to Rob Bishop from Raspberry Pi
 
-Week 10 Profile #4 - Crowdfunded
+
+        
+
+Week 11/12  Profile #4 - AppStores/Crowdfunding/Crowdfunded
+        Crowdfunding/Platforms
         GooglePlayStore
         Patreon
         IndyGoGo
@@ -96,9 +145,9 @@ Week 10 Profile #4 - Crowdfunded
         Action:
             Reach out to Kickstarter (Sam)
 
-Week 11 Civic/Humanitarian Hacking
+Week 13 Profile #5 - Civic/Humanitarian Hacking &
+        Defense Against the Dark Arts/Emergency Management
 
-        Profile #5 - Civic/Humanitarian Hacking
         Code For America
         18F/Presidential Innovation Fellowship
         SugarLabs/OLPC
@@ -106,24 +155,16 @@ Week 11 Civic/Humanitarian Hacking
         Ushahidi/CrisisCommons
         CivicHall?
 
-        Action:
-            Reach out to Sean Herron/Jackie Kazil
-
-Week 12 Defense Against the Dark Arts/Emergency Management
-
         Information Security Policy
         Public Relations/Communications
 
-        Profile #6 - InfoSec/Consulting
+        InfoSec/Consulting
         OWASP
         Rapid7 
         BlackDuck/OpenHub
 
-Week 13 Profile #7 - Fiscal Sponsorship Orgs
-        Software Freedom Conservancy
-        Apache Software Foundation
-        Software in the Public Interest
-        Eclipse Foundation
+        Action:
+            Reach out to Sean Herron/Jackie Kazil
 
 Week 14 Contracts/NDA/Non-compete
 

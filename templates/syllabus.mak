@@ -96,8 +96,569 @@
 </div>
 
 <div class="section">
+    <a class="headerlink" name="schedule"></a>
+    <h2>Schedule</h2>
+    <table class="table table-striped table-bordered">
+        <colgroup>
+            <col style="width: 2%;">
+            <col style="width: 2%;">
+            <col style="width: 4%;">
+            <col style="width: 38%;">
+            <col style="width: 26%;">
+            <col style="width: 26%;">
+        </colgroup>
+        <tbody style="vertical-align: top;">
+        <tr>
+            <th colspan="2">Week
+            </th><th>Day
+            </th><th>Topic
+            </th><th>Assigned
+            </th><th>Due
+        </th></tr>
+        <tr>
+            <td rowspan="2">0</td>
+            <td class="sessionnumber">0</td>
+            <td>01/27</td>
+            <td>
+                <p class="topic ">
+                Welcome, Syllabus, RTFM 
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/hw/firstflight">First Flight</a>
+                <br> <br>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/tc_law_and_technology_timeline.pdf"> Read Copyright: Law and Technolgy Timeline</a>
+                </p>
+            </td>
+
+            <td>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>01/29</td>
+            <td>
+                <p class="topic ">
+                First Flight, Law and Technolgy Timeline
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                <a target="_blank" href="https://www.youtube.com/watch?v=coGpmA4saEk">Video Review 0: Everything is a Remix</a>
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">1</td>
+            <td class="sessionnumber">0</td>
+            <td>02/03</td>
+            <td>
+                <p class="topic ">
+                 Licensing
+                </p>
+            </td>
+
+            <td>
+            <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 0: SFLC Legal Primer - Preface, Chapter 1, Chapter 2</a>
+            </td>
+
+            <td>
+            <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/hw/firstflight">First Flight</a>
+            </td>
+
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>02/05</td>
+            <td>
+                <p class="topic ">
+                Discuss: Video Review 0, Lit Review 0
+                </p>
+            </td>
+
+            <td>
+                <a target="_blank" href=" http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf">Lit Review 1:  Comprehensive GPL Guide - Chapter 1</a>
+            </td>
+
+            <td>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 0: SFLC Legal Primer - Preface, Chapter 1, Chapter 2</a>
+                <br> <br>
+                <a target="_blank" href="https://www.youtube.com/watch?v=coGpmA4saEk">Video Review 0: Everything is a Remix</a>
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">2</td>
+            <td class="sessionnumber">0</td>
+            <td>02/10</td>
+            <td>
+                <p class="topic ">
+                Discuss: Software Freedom
+                </p>
+            </td>        
+            <td>
+                Lit Review 2: <a target="_blank" href="https://www.apple.com/legal/internet-services/itunes/us/terms.html">iTunes TOS</a>, <a target="_blank" href="https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement">Fedora Project Contributors Agreement</a>, <a target="_blank" href="http://legacy.python.org/psf/contrib/contrib-form/contributor-agreement.pdf">Python Software Foundation CLA</a>
+            </td>
+
+            <td>
+                <a target="_blank" href=" http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf">Lit Review 1:  Comprehensive GPL Guide - Chapter 1</a>
+            </td>
+
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>02/12</td>
+            <td>
+                <p class="topic ">
+                Discuss: EULA/TOS/CLA
+                </p>
+            </td>
+
+            <td>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 3: SFLC Legal Primer Chapter 4</a>
+            </td>
+
+            <td>
+                Lit Review 2: <a target="_blank" href="https://www.apple.com/legal/internet-services/itunes/us/terms.html">iTunes TOS</a>, <a target="_blank" href="https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement">Fedora Project Contributors Agreement</a>, <a target="_blank" href="http://legacy.python.org/psf/contrib/contrib-form/contributor-agreement.pdf">Python Software Foundation CLA</a>
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">3</td>
+            <td class="sessionnumber">0</td>
+            <td>02/17</td>
+            <td>
+                <p class="topic cancelled">
+                Class CANCELLED. GO TO ROC.py Tuesday!
+                </p>
+            </td>
+
+            <td>
+            Lit Review 4: <br> <a target="_blank" href="http://www.redhat.com/legal/patent_policy.html">Red Hat Promise</a> <br> <a target="_blank" href="http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf">IBM Patent Promise</a> <br> <a target="_blank" href="https://www.google.com/patents/opnpledge/pledge/">Google Patent Pledge</a> <br> <a target="_blank" href="https://www.redhat.com/magazine/001nov04/features/patents/">Patent Promise Comparisons</a>
+            </td>
+            <td>
+            <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 3: SFLC Legal Primer Chapter 4</a>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>02/19</td>
+            <td>
+                Discuss: SFLC Legal Primer Chapter 4 - Patents
+            </td>
+
+            <td>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 5: SFLC Legal Primer Chapter 5</a>
+            </td>
+
+            <td>
+                Lit Review 4: <br> <a target="_blank" href="http://www.redhat.com/legal/patent_policy.html">Red Hat Promise</a> <br> <a target="_blank" href="http://www.ibm.com/ibm/licensing/patents/pledgedpatents.pdf">IBM Patent Promise</a> <br> <a target="_blank" href="https://www.google.com/patents/opnpledge/pledge/">Google Patent Pledge</a> <br> <a target="_blank" href="https://www.redhat.com/magazine/001nov04/features/patents/">Patent Promise Comparisons</a>
+            </td>
+        </tr>
+
+        <tr>
+            <td rowspan="2">4</td>
+            <td class="sessionnumber">0</td>
+            <td>02/24</td>
+            <td>
+                <p class="topic cancelled">
+                Class CANCELLED.
+                </p>
+            </td>
+
+            <td>
+                <a target="_blank" href="https://www.youtube.com/watch?v=JY6AtbtAuts">Video Review 1: Karen Sandler - Trademarks and Your FOSS Project</a>
+            </td>
+
+            <td>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 5: SFLC Legal Primer Chapter 5</a>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>02/26</td>
+            <td>
+                Discuss:  <a target="_blank" href="https://www.youtube.com/watch?v=JY6AtbtAuts">Video Review 1: Karen Sandler - Trademarks and Your FOSS Project</a>
+            </td>
+
+            <td>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf">Lit Review 6: SFLC Legal Primer Chpater 3</a>
+            </td>
+
+            <td>
+                <a target="_blank" href="https://www.youtube.com/watch?v=JY6AtbtAuts">Video Review 1: Karen Sandler - Trademarks and Your FOSS Project</a> 
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">5</td>
+            <td class="sessionnumber">0</td>
+            <td>03/03</td>
+            <td>
+                <p class="topic ">
+                Discuss: Profile Overview and SFLC Legal Primer Chapter 3 and other Business Models
+                </p>
+            </td>
+
+            <td>
+                <p class="topic ">
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Read "The Profile"</a> <br><br>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Enterprise</em></a> <br><br>
+                Lit Review 7: <br>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1">Read GPL Guide Chapter 12 Section 1</a> <br><br>
+                <a target="_blank" href=" http://opensource.org/advocacy/case_for_business.php">Read OSI Business Models</a>
+                </p>
+            </td>
+
+            <td>
+              
+            </td>
+
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>03/05</td>
+            <td>
+                <p class="topic guest">
+                IRC CLASS - Decasue @ SIGSE<br><br>
+                Discuss: Team Selection,<a target="_blank" href="http://opensource.org/advocacy/case_for_business.php">OSI Biz Models</a>, <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1">GPL Guide Chapter 12 Section 1</a>
+                </p>
+            </td>
+
+            <td>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Enterprise</a>
+            </td>
+
+            <td>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Enterprise</em></a>
+                <br><br>
+                Lit Review 7: <br>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf#section.12.1">Read GPL Guide Chapter 12 Section 1</a> <br><br>
+                <a target="_blank" href=" http://opensource.org/advocacy/case_for_business.php">Read OSI Business Models</a>
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">6</td>
+            <td class="sessionnumber">0</td>
+            <td>03/10</td>
+            <td>
+                Presentations - Enterprise
+            </td>
+
+            <td>
+
+            </td>
+
+            <td>
+                <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Enterprise</a>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>03/12</td>
+            <td>
+                Presentations - Enterprise
+            </td>
+
+            <td>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Fiscal Sponsorship Orgs</em></a> 
+            </td>
+
+            <td>
+            
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">7</td>
+            <td class="sessionnumber">0</td>
+            <td>03/17</td>
+            <td>
+                <p class="topic cancelled">
+                Class CANCELLED. GO TO ROC.py Tuesday!
+                </p>
+            </td>
+
+            <td>
+                
+            </td>
+
+            <td>
+            </td>
+
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>03/19</td>
+            <td>
+                Discuss Fiscal Sponsorship Orgs
+            </td>
+
+            <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Fiscal Sponsorship Orgs</a>
+            </td>
+
+            <td>
+                <a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Fiscal Sponsorship Orgs</em></a>
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">8</td>
+            <td class="sessionnumber">0</td>
+            <td>03/24</td>
+            <td>
+                <p class="topic cancelled">
+                No Class: Spring Break!
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>03/26</td>
+            <td>
+                <p class="topic cancelled">
+                No Class: Spring Break!
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">9</td>
+            <td class="sessionnumber">0</td>
+            <td>03/31</td>
+            <td>
+                <p class="topic ">
+                Presentations - Fiscal Sponsorship Orgs
+                </p>
+            </td>
+
+            <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Startups/Contemporary Issues</em></a>
+            	
+            </td>
+
+            <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Fiscal Sponsorship Orgs</a>
+            </td>
+
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>04/02</td>
+            <td>
+                <p class="topic ">
+                Presentations - Fiscal Sponsorship Orgs
+                </p>
+            </td>
+
+            <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Startups/Contemporary Issues</a>
+            </td>
+
+            <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Startups/Contemporary Issues</em></a>
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">10</td>
+            <td class="sessionnumber">0</td>
+            <td>04/07</td>
+            <td>
+                Presentations - Startups/Contemporary Issues
+            </td>
+
+            <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Crowdfunding/ed & Appstores</em></a>
+            </td>
+
+            <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Startups/Contemporary Issues</a>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>04/09</td>
+            <td>
+                Presentations - Startups/Contemporary Issues
+            </td>
+
+            <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Crowdfunding/ed & Appstores</a>
+            </td>
+
+            <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Crowdfunding/ed & Appstores</em></a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">11</td>
+            <td class="sessionnumber">0</td>
+            <td>04/14</td>
+            <td>
+                <p class="topic guest">
+                IRC CLASS
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr><tr>
+            <td class="sessionnumber">1</td>
+            <td>04/16</td>
+            <td>
+                Presentations - Crowdfunding/ed & Appstores
+            </td>
+
+            <td>
+            <a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Civic Hacking / Dark Arts</a>
+            </td>
+
+            <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Crowdfunding/ed & Appstores</a>
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan ="2">12</td>
+            <td  class="sessionnumber">0</td>
+            <td>04/21</td>
+            <td>
+                <p class="topic cancelled">
+                Class CANCELLED. GO TO ROC.py Tuesday!
+                </p>
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td class="sessionnumber">1</td>
+            <td>04/23</td>
+            <td>
+                Presentations - Crowdfunding/ed & Appstores
+            </td>
+
+            <td>
+                
+            </td>
+
+            <td>
+            	
+            </td>
+
+        </tr><tr>
+            <td rowspan ="2">13</td>
+            <td class="sessionnumber">0</td>
+            <td>04/28</td>
+            <td>
+                Presentations - Civic Hacking / Dark Arts
+            </td>
+
+            <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Choose Your Own</em></a>
+            </td>
+
+            <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Civic Hacking / Dark Arts</a>
+            </td>
+
+        </tr>
+        <tr>
+            <td class="sessionnumber">1</td>
+            <td>04/30</td>
+            <td>
+                Presentations - Civic Hacking / Dark Arts
+            </td>
+
+            <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Choose Your Own</a>
+            </td>
+
+            <td>
+            	<a target="_blank" href="/static/hw/teamproposal.html"><em>Team Proposal - Choose Your Own</em></a>
+            </td>
+        </tr><tr>
+            <td rowspan ="2">14</td>
+            <td class="sessionnumber">0</td>
+            <td>05/05</td>
+            <td>
+                NDA's, Non-Competes, etc.
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+
+        </tr>
+        <tr>
+            <td class="sessionnumber">1</td>
+            <td>05/07</td>
+            <td>
+                NDA's, Non-Competes, etc.
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+
+        </tr><tr>
+            <td rowspan ="1">15</td>
+            <td class="sessionnumber">0</td>
+            <td>05/12</td>
+            <td>
+                TBD
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            </td>
+
+        </tr>
+        <tr>
+            <td rowspan="1">16</td>
+            <td class="sessionnumber">0</td>
+            <td>05/19</td>
+            <td>
+                FINAL Presentations - Choose Your Own
+            </td>
+
+            <td>
+            </td>
+
+            <td>
+            	<a target="_blank" href="http://bizlegfoss-ritigm.rhcloud.com/static/hw/profile.html">Company Profile - Choose Your Own</a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="section">
   <a class="headerlink" name="schedule"></a>
-  <h2>Licensing</h2>
+  <h2>Schedule</h2>
   <p>
     See: <a target="_blank" href="/static/bizlegalenvfoss.txt">Course Outline</a>
   </p>

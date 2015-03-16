@@ -6,4 +6,17 @@ irc: beWhitty
 name: beWhitty
 rit_dce: bcw7044
 hw:
-  firstflight: "url"
+  firstflight: https://brendanwhitfield.wordpress.com/2015/02/05/first-flight/
+  vidreview0: https://brendanwhitfield.wordpress.com/2015/02/05/everything-is-a-remix/
+  litreview0: https://brendanwhitfield.wordpress.com/2015/02/05/foss-primer/
+  litreview1: https://brendanwhitfield.wordpress.com/2015/02/10/whis-is-software-freedom/
+  litreview2: https://brendanwhitfield.wordpress.com/2015/02/12/terms-of-service/
+  litreview3: https://brendanwhitfield.wordpress.com/2015/02/17/foss-primer-patents/
+  litreview4: https://brendanwhitfield.wordpress.com/2015/02/19/patent-pledges/
+  litreview5: https://brendanwhitfield.wordpress.com/2015/02/26/foss-primer-trademarks/
+  litreview6: https://brendanwhitfield.wordpress.com/2015/03/06/foss-non-profit-corporations/
+  litreview7: https://brendanwhitfield.wordpress.com/2015/03/06/osi-foss-business-models/
+  vidreview1: https://brendanwhitfield.wordpress.com/2015/02/24/all-things-open-trademarks/
+  teamprop0: https://brendanwhitfield.wordpress.com/2015/03/05/foss-profile-opengl/
+  profile0: https://github.com/brendanwhitfield/opengl_presentation
+  teamprop1: https://brendanwhitfield.wordpress.com/2015/03/12/foss-profile-software-in-the-public-interest/
