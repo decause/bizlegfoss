@@ -4,6 +4,7 @@ feed: https://CalebCoffie.com/bizleg-feed.xml
 forges:
   - https://github.com/CCoffie
 irc: c_coffie
+name: c_coffie
 rit_dce: csc6972
 hw:
   firstflight: https://calebcoffie.com/legalbusiness-aspects-of-foss-introduction
