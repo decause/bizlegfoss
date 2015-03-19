@@ -7,6 +7,12 @@ irc: amm4108
 rit_dce: amm4108
 name: amm4108
 lightingtalk0: http://slides.com/amm4108/using-ghost-on-openshift-1#/
+hackathon1: http://ghost-alexandriamack.rhcloud.com/gdc-day-1
+hackathon2: http://ghost-alexandriamack.rhcloud.com/gdc-day-2
+hackathon3: http://ghost-alexandriamack.rhcloud.com/gdc-day-3
+hackathon4: http://ghost-alexandriamack.rhcloud.com/gdc-day-4
+hackathon5: http://ghost-alexandriamack.rhcloud.com/gdc-day-5
+hackathon6: http://ghost-alexandriamack.rhcloud.com/shannon-valor-ethics-in-development
 hw:
   firstflight: http://ghost-alexandriamack.rhcloud.com/first-flight-2015/
   litreview0: http://ghost-alexandriamack.rhcloud.com/foss-legal-primer-lit-review
@@ -20,14 +26,10 @@ hw:
   vidreview1: http://ghost-alexandriamack.rhcloud.com/trademarks-and-your-foss-project
   litreview6: http://ghost-alexandriamack.rhcloud.com/common-organizational-issues
   litreview7: http://ghost-alexandriamack.rhcloud.com/integrating-the-gpl-into-business-practices-and-the-osi-business-model
-  hackathon1: http://ghost-alexandriamack.rhcloud.com/gdc-day-1
-  hackathon2: http://ghost-alexandriamack.rhcloud.com/gdc-day-2
-  hackathon3: http://ghost-alexandriamack.rhcloud.com/gdc-day-3
-  hackathon4: http://ghost-alexandriamack.rhcloud.com/gdc-day-4
-  hackathon5: http://ghost-alexandriamack.rhcloud.com/gdc-day-5
   teamprop0: http://ghost-alexandriamack.rhcloud.com/team-prop-0
   teamprop1: http://ghost-alexandriamack.rhcloud.com/team-proposal-1-business-and-legal
   profile0: http://ghost-alexandriamack.rhcloud.com/profile-0-acquia-drupal
   profile1: http://ghost-alexandriamack.rhcloud.com/profile-1-eclipse-software-foundation
   litreview8: http://ghost-alexandriamack.rhcloud.com/lit-review-nobel-popular-economics
   teamprop:2: http://ghost-alexandriamack.rhcloud.com/team-proposal-2-code-combat
+  litreview9: http://ghost-alexandriamack.rhcloud.com/lit-review-quantifying-open-source-hardware
