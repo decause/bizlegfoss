@@ -3,6 +3,7 @@ feed: https://chrisknepper.com/blog/feed/
 forges:
   - https://github.com/chrisknepper
 irc: chrisknepper
+name: chrisknepper
 rit_dce: cxk1108
 hw:
   litreview0: http://chrisknepper.com/2015/02/learn-you-some-licenses-lit-review/
