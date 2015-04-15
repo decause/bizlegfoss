@@ -1,9 +1,23 @@
-blog: Kaffys.github.io
-feed: Kaffys.github.io
+#Kathleen Tigue - biz leg
+blog: http://kaffys.github.io/blog
+feed: http://kaffys.github.io/feed
 forges:
   - https://github.com/Kaffys
 irc: Kaffys
 name: Kaffys
 rit_dce: kat1219
 hw:
-  firstflight: http://kaffys.github.io/bizleg/2015/02/03/first-flight.html
+  firstflight: http://kaffys.github.io/bizleg/first-flight/
+  vidreview0: http://kaffys.github.io/bizleg/vidreview/
+  litreview0: http://kaffys.github.io/bizleg/litreview1/
+  litreview1: http://kaffys.github.io/bizleg/litreview2/
+  litreview2: http://kaffys.github.io/bizleg/litreview2/
+  litreview3: http://kaffys.github.io/bizleg/litreview4/
+  litreview4: http://kaffys.github.io/bizleg/litreview4/
+  litreview5: http://kaffys.github.io/bizleg/litreview5/
+  litreview6: http://kaffys.github.io/bizleg/litreview6/
+  litreview7: http://kaffys.github.io/bizleg/litreview7/
+  teamprop0: http://kaffys.github.io/Drupal/
+  teamprop1: http://kaffys.github.io/Eclipse/
+  teamprop3: http://kaffys.github.io/BizLegTeamProp/
+  litreview8: http://kaffys.github.io/bizleg/litreview8/
