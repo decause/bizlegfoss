@@ -62,6 +62,7 @@
               <li><span class="glyphicon glyphicon-envelope"></span>
                 <a href="mailto:${instructor['email']}">${instructor['email']}</a>
               </li>
+              <li><span class="glyphicon glyphicon-warning-sign"></span> ${course['final']}</li>
             </ul>
           </div>
           ${self.doc_toc()}
