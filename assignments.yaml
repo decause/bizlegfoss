@@ -17,13 +17,16 @@ hw:
     - profile1
     - preso0
     - preso1
+    - preso2
+    - preso3
+    - preso4
       #- quiz1
       #- quiz2
-      #- bizprofile1
-      #- bizprofile2
-      #- bizprofile3
-      #- bizprofile4
-      #- bizprofile5
+    - bizprofile0
+    - bizprofile1
+    - bizprofile2
+    - bizprofile3
+    - bizprofile4
       #- bizprofile6
       #- bizprofile7
       #- bizprofile8
