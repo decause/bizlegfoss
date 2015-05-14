@@ -1,0 +1,36 @@
+blog: http://gearchicken.com/blog/
+feed: http://gearchicken.com/blog/rss.xml
+forges:
+  - http://github.com/liam-middlebrook
+irc: loothelion
+name: loothelion
+rit_dce: ljm2906
+hw:
+  firstflight: http://gearchicken.com/blog/2015/01/30/hello-world-2.html
+  vidreview0: http://gearchicken.com/blog/2015/02/05/everything-remix.html
+  litreview0: http://gearchicken.com/blog/2015/02/05/litreview.html
+  litreview1: http://gearchicken.com/blog/2015/02/10/gpl-guide.html
+  litreview2: http://gearchicken.com/blog/2015/02/12/tos-apple.html
+  litreview3: http://gearchicken.com/blog/2015/02/17/patent.html
+  litreview4: http://gearchicken.com/blog/2015/02/19/patent-promise.html
+  litreview5: http://gearchicken.com/blog/2015/02/24/trademark.html
+  vidreview1: http://gearchicken.com/blog/2015/02/26/trademarks-vidreview.html
+  litreview6: http://gearchicken.com/blog/2015/03/10/organizational-issues.html
+  litreview7: http://gearchicken.com/blog/2015/03/10/open-source-business.html
+  meetup0: http://gearchicken.com/blog/2015/03/05/thoughts-on-vulkan.html
+  teamprop0: http://gearchicken.com/blog/2015/03/10/team-profile.html
+  teamprop1: http://gearchicken.com/blog/2015/03/12/team-profile.html
+  litreview8: http://gearchicken.com/blog/2015/03/18/nobel-economics.html
+  profile0: https://github.com/msoucy/bizleg-profiles/tree/master/profile0.md
+  preso0: http://msoucy.github.io/bizleg-profiles/profile0/#/
+  profile1: https://github.com/msoucy/bizleg-profiles/tree/master/profile1.md
+  preso1: http://msoucy.github.io/bizleg-profiles/profile1/#/
+  litreview9: http://gearchicken.com/blog/2015/03/30/value-open-hardware.html
+  teamprop2: http://gearchicken.com/blog/2015/04/01/team-profile.html
+  teamprop3: http://gearchicken.com/blog/2015/04/02/team-profile.html
+  profile2: http://gearchicken.com/blog/2015/04/02/profile-2.html
+  preso2: http://gearchicken.com/blog/2015/04/02/preso-2.html
+  finalquestions: http://gearchicken.com/blog/2015/05/05/questions.html
+coderwall: liam-middlebrook
+twitter: liammiddlebrook
+github: liam-middlebrook

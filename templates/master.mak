@@ -9,6 +9,8 @@
 
     <!-- Le styles -->
     <link href="/static/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/static/css/ripples.min.css" rel="stylesheet">
+    <link href="/static/css/material-wfont.min.css" rel="stylesheet">
     <link href="/static/css/site.css" rel="stylesheet" />
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -32,7 +34,8 @@
         </button>
       </div>
       <div class="navbar-collapse collapse">
-        <p class="navbar-text pull-right">
+
+    <p class="navbar-text pull-right raise">
         Fork me on <a target="_blank" href="${course['repo']}" class="navbar-link">Github</a>
         </p>
         <ul class="nav navbar-nav">
@@ -59,6 +62,7 @@
               <li><span class="glyphicon glyphicon-envelope"></span>
                 <a href="mailto:${instructor['email']}">${instructor['email']}</a>
               </li>
+              <li><span class="glyphicon glyphicon-pencil"></span> ${course['final']}</li>
             </ul>
           </div>
           ${self.doc_toc()}
@@ -80,6 +84,29 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/static/js/jquery.js"></script>
     <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/ripples.min.js"></script>
+    <script src="/static/js/material.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $.material.init();
+        });
+    </script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik-decause.rhcloud.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 3]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik-decause.rhcloud.com/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
 
   </body>
 </html>

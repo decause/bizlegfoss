@@ -1,0 +1,36 @@
+# vim: tabstop=2 expandtab shiftwidth=2 :
+blog: http://aaron.herting.cc/
+feed: http://aaron.herting.cc/feeds/posts/default/-/RIT-BIZLEGFOSS/
+forges:
+  - http://github.com/qwertos
+  - http://bitbucket.org/qwertos
+irc: qwertos
+name: qwertos
+rit_dce: adh2380
+hw:
+  firstflight: http://aaron.herting.cc/2015/02/business-and-legal-aspects-of-foss.html
+  vidreview0: http://aaron.herting.cc/2015/02/video-review-everything-is-remix.html
+  # litreview0 is queued to be published 2/8/15 at 1200 (Blog flood prevention)
+  litreview0: http://aaron.herting.cc/2015/02/literature-review-legal-issues-primer.html
+  litreview1: http://aaron.herting.cc/2015/02/literature-review-copyleft-and-gnu.html
+  litreview3: http://aaron.herting.cc/2015/02/literature-review-legal-issues-primer_19.html
+  # litreview4 is queued to be published 2/20/15 at noon (Flood Prevention)
+  litreview4: http://aaron.herting.cc/2015/02/literature-review-patent-promises.html
+  litreview7: http://aaron.herting.cc/2015/03/literature-review-copyleft-and-gnu.html
+  teamprop0: http://aaron.herting.cc/2015/03/profile-proposal-governmentgithubcom.html
+  profile0: http://aaron.herting.cc/2015/03/profile-github_12.html
+  # teamprop1: 3/13/15 1200
+  teamprop1: http://aaron.herting.cc/2015/03/profile-proposal-linux-foundation.html
+  profile1: http://aaron.herting.cc/2015/03/profile-linux-foundation.html
+  # litreview8: 3/20/15 0000
+  litreview8: http://aaron.herting.cc/2015/03/literature-review-market-power-and.html
+  preso0: http://msoucy.github.io/bizleg-profiles/profile0/#/
+  preso1: http://msoucy.github.io/bizleg-profiles/profile1/#/
+  preso2: http://msoucy.github.io/bizleg-profiles/profile2/#/
+  profile2: http://aaron.herting.cc/2015/04/profile-beaglebone.html
+  teamprop2: http://aaron.herting.cc/2015/04/profile-proposal-beaglebone_2.html
+  teamprop3: http://aaron.herting.cc/2015/04/profile-proposal-flattr.html
+  preso3: https://docs.google.com/presentation/d/1riDF3WPTqD7A-qPkXy1qO0sSc80Tz7GqPjwSBxLK4ZI/edit?pli=1#slide=id.p
+  # profile3: 4/20/15 0000
+  profile3: http://aaron.herting.cc/2015/04/profile-flattr.html
+

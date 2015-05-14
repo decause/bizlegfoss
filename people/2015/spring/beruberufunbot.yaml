@@ -1,0 +1,26 @@
+# These are not the droids you are looking for...
+# Unless, you know, they are
+blog: http://beru.co/blog
+feed: http://beru.co/blog/feeds/bizfoss.rss.xml
+forges:
+  - https://github.com/berulacks
+irc: BeruBeruFunBot
+name: BeruBeruFunBot
+rit_dce: dmy4324
+hw:
+  firstflight: "http://beru.co/blog/first-to-fly-first-to-fall.html"
+  vidreview0: "http://beru.co/blog/everything-is-a-remix-and-this-is-a-review.html"
+  litreview0: "http://beru.co/blog/a-prime-review-of-a-primer.html"
+  litreview1: "http://beru.co/blog/a-comprehensive-review-of-a-comprehensive-guide.html"
+  litreview2: "http://beru.co/blog/reviewing-terms-of-service.html"
+  litreview3: "http://beru.co/blog/a-prime-review-of-a-primer-addendum-for-chapter-4.html"
+  litreview4: "http://beru.co/blog/patent-promises.html"
+  litreview5: "http://beru.co/blog/a-prime-review-of-a-primer-addendum-for-chapter-5.html"
+  litreview8: "http://beru.co/blog/novel-nobel-economics.html"
+  litreview9: "http://beru.co/blog/quantifying-the-quantification.html"
+  teamprop0: "http://beru.co/blog/team-proposal-0.html"
+  profile0: "http://beru.co/blog/team-proposal-0.html"
+  teamprop1: "http://beru.co/blog/team-proposal-1.html"
+  preso0: "https://docs.google.com/presentation/d/1p9zVKV5goEqZKxBqKsMJi-9OcilKuD_XGlYF8YNXDJU/edit?usp=sharing"
+  preso1: "https://docs.google.com/presentation/d/14FmBheEgXKj8ReWeAREdcpH0nKzkpVPYNxJ2yuC4lyY/edit?usp=sharing"
+

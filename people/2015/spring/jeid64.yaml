@@ -1,0 +1,34 @@
+blog: http://fossclassjeid64.blogspot.com/
+feed: http://fossclassjeid64.blogspot.com/feeds/posts/default?alt=rss
+forges:
+    - http://github.com/jeid64
+irc: jeid64
+name: jeid64
+rit_dce: jxe6210
+hw:
+  firstflight: "http://fossclassjeid64.blogspot.com/2015/02/week-1-first-flight.html"
+  litreview0: "http://fossclassjeid64.blogspot.com/2015/02/litreview-primer-for-foss-software.html"
+  vidreview0: "http://fossclassjeid64.blogspot.com/2015/02/litreview-everything-is-remix.html"
+  litreview1: http://fossclassjeid64.blogspot.com/2015/02/litreview-comprehensive-gpl-guide.html
+  litreview2: http://fossclassjeid64.blogspot.com/2015/02/litreview-fedora-project-contributor.html
+  litreview3: http://fossclassjeid64.blogspot.com/2015/02/litreview-chapter-3-of-foss-primer.html
+  litreview4: http://fossclassjeid64.blogspot.com/2015/02/litreview-patent-promises.html
+  litreview5: http://fossclassjeid64.blogspot.com/2015/02/litreview-trademarks.html
+  vidreview1: http://fossclassjeid64.blogspot.com/2015/02/vidreview-trademarks.html
+  litreview7: http://fossclassjeid64.blogspot.com/2015/03/litreview-7-business-and-open-source.html
+  teamprop0: http://fossclassjeid64.blogspot.com/2015/03/team-proposal-0-github.html
+  teamprop1: http://fossclassjeid64.blogspot.com/2015/03/team-proposal-1-linux-foundation.html
+  teamprop2: http://fossclassjeid64.blogspot.com/2015/03/team-proposal-2-beagleboard.html
+  teamprop3: http://fossclassjeid64.blogspot.com/2015/05/teamprop-3-crowdsourcing.html
+  teamprop4: http://fossclassjeid64.blogspot.com/2015/05/teamprop-4-sugarlabs.html
+  bizprofile0: https://github.com/msoucy/bizleg-profiles/tree/master/profile0.md
+  bizprofile1: https://github.com/msoucy/bizleg-profiles/tree/master/profile1.md
+  bizprofile2: https://github.com/msoucy/bizleg-profiles/tree/master/profile2.md
+  bizprofile3: https://github.com/msoucy/bizleg-profiles/tree/master/profile3.md
+  bizprofile4: https://github.com/msoucy/bizleg-profiles/tree/master/profile4.md
+  preso0: http://msoucy.github.io/bizleg-profiles/profile0/#/
+  preso1: http://msoucy.github.io/bizleg-profiles/profile1/#/
+  preso2: http://msoucy.github.io/bizleg-profiles/profile2/#/
+  preso3: http://msoucy.github.io/bizleg-profiles/profile3/#/
+  preso4: http://msoucy.github.io/bizleg-profiles/profile4/#/
+  finalquestions: http://fossclassjeid64.blogspot.com/2015/05/bizleg-final-questions.html

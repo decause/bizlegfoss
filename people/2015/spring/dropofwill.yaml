@@ -1,0 +1,37 @@
+blog: http://dropofwill.herokuapp.com
+feed: http://dropofwill.herokuapp.com/bizleg_feed.xml
+forges:
+  - https://github.com/dropofwill
+irc: dropofwill
+name: dropofwill
+rit_dce: whp3652
+hw:
+  firstflight: http://dropofwill.herokuapp.com/2015/01/30/first-flight-round-2/
+  litreview0: http://dropofwill.herokuapp.com/2015/02/04/initial-review-of-a-foss-primer/
+  vidreview0: http://dropofwill.herokuapp.com/2015/02/04/review-of-everything-is-a-remix/
+  litreview1: http://dropofwill.herokuapp.com/2015/02/06/initial-review-of-copyleft-and-the-gnu-general-public-license/
+  litreview2: http://dropofwill.herokuapp.com/2015/02/11/itunes-fedora-and-python-a-terms-and-agreement-overview/
+  litreview3: http://dropofwill.herokuapp.com/2015/02/15/review-of-patent-defense-for-foss-developers/
+  litreview4: http://dropofwill.herokuapp.com/2015/02/15/patents-a-comparison-of-red-hat-ibm-and-google-s-stance-on-patents/
+  litreview5: http://dropofwill.herokuapp.com/2015/02/21/foss-legal-primer-common-trademark-issues/
+  vidreview1: http://dropofwill.herokuapp.com/2015/02/21/review-of-trademarks-and-your-foss-project/
+  litreview6: http://dropofwill.herokuapp.com/2015/03/03/review-of-common-foss-organizational-issues/
+  litreview7: http://dropofwill.herokuapp.com/2015/03/05/open-source-business-models-and-implications/
+  teamprop0: http://dropofwill.herokuapp.com/2015/03/05/team-proposal-webkit-and-blink/
+  teamprop1: http://dropofwill.herokuapp.com/2015/03/13/team-proposal-software-freedom-conservancy/
+  meetup0:    http://dropofwill.herokuapp.com/2015/02/18/roc-py-february-toyz-for-data-reduction/
+  litreview8: http://dropofwill.herokuapp.com/2015/03/18/review-of-market-power-and-regulation/
+  profile0:   http://bit.ly/1EvTF0q
+  profile1:   http://bit.ly/1DCQlpa
+  preso0:     http://bit.ly/1Bz1rZS
+  preso1:     http://bit.ly/1Eyvzol
+  teamprop2:  http://dropofwill.herokuapp.com/2015/03/31/team-proposal-for-coinbase-profile/
+  litreview9: http://dropofwill.herokuapp.com/2015/03/31/lit-review-of-the-quantifying-the-value-of-open-source-hardware-development/
+  profile2:   http://bit.ly/1DFjQHx
+  preso2:     http://bit.ly/1ELWLTt
+  teamprop3:  http://dropofwill.herokuapp.com/2015/04/06/team-proposal-for-gratipay-profile/
+  profile3:   http://bit.ly/1H8hgt8
+  preso3:     http://bit.ly/1CuxwhM
+  profile4:   http://bit.ly/1Fb0bQz
+  preso4:     http://bit.ly/1dpgRqX
+  finalquestions: http://dropofwill.herokuapp.com/2015/05/09/3-questions-for-bizleg-class/
