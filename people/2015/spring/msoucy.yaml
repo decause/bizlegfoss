@@ -23,17 +23,26 @@ hw:
   vidreview1: http://msoucy.me/2015/02/vidreview-trademarks/
   litreview6: http://msoucy.me/2015/03/litreview-bizleg-ch3/
   litreview7: http://msoucy.me/2015/03/litreview-bizleg-gpl-business/
-  teamprop0: http://msoucy.me/2015/03/profile-proposal-enterprise/
-  profile0: http://msoucy.me/2015/03/profile-enterprise/
-  teamprop1: http://msoucy.me/2015/03/profile-proposal-organization/
-  preso0: http://msoucy.github.io/bizleg-profiles/profile0/
-  profile1: http://msoucy.me/2015/03/profile-1/
-  preso1: http://msoucy.github.io/bizleg-profiles/profile1/
   litreview8: http://msoucy.me/2015/03/litreview-nobel/
   litreview9: http://msoucy.me/2015/03/litreview-fosh/
+  teamprop0: http://msoucy.me/2015/03/profile-proposal-enterprise/
+  teamprop1: http://msoucy.me/2015/03/profile-proposal-organization/
+  profile0: http://msoucy.me/2015/03/profile-enterprise/
+  profile1: http://msoucy.me/2015/03/profile-1/
+  profile2: http://msoucy.me/2015/04/profile-2/
   profile3: http://msoucy.me/2015/03/profile-proposal-funding/
-  preso2: http://msoucy.me/2015/04/profile-2/
+  profile4: http://msoucy.github.io/bizleg-profiles/profile4/
+  preso0: http://msoucy.github.io/bizleg-profiles/profile0/
+  preso1: http://msoucy.github.io/bizleg-profiles/profile1/
+  preso2: http://msoucy.github.io/bizleg-profiles/profile2/
   preso3: http://msoucy.github.io/bizleg-profiles/profile3/
   preso4: http://msoucy.github.io/bizleg-profiles/profile4/
-  finalquestions: http://msoucy.me/2015/05/bizleg-three-questions/
   meetup0: http://msoucy.me/2015/05/pycon-2015-overview/
+  meetup1: http://msoucy.me/2015/05/pycon-2015-beyond-pep8/
+  bizprofile0: http://fossrit.github.io/HowToFOSS/chapters/bizleg-case-studies/enterprise/GitHub.html
+  bizprofile1: http://fossrit.github.io/HowToFOSS/chapters/bizleg-case-studies/fiscal-sponsorship/LinuxFoundation.html
+  bizprofile2: http://fossrit.github.io/HowToFOSS/chapters/bizleg-case-studies/startups/BeagleBoard.html
+  bizprofile3: http://fossrit.github.io/HowToFOSS/chapters/bizleg-case-studies/crowdfunding/bountysource.html
+  bizprofile4: http://fossrit.github.io/HowToFOSS/chapters/bizleg-case-studies/light-side-dark-side/SugarOLPC.html
+  finalquestions: http://msoucy.me/2015/05/bizleg-three-questions/
+  finalpost: http://msoucy.me/2015/05/bizleg-final-questions/
