@@ -1,5 +1,5 @@
 blog: http://pharaskn.blogspot.com/
-feed: http://pharaskn.blogspot.com/feeds/posts/default
+feed: http://pharaskn.blogspot.com/feeds/posts/default?max-results=50
 forges:
  - https://github.com/Pharas
 irc: Pharas
