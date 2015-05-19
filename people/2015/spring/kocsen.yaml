@@ -1,5 +1,5 @@
 blog: http://kocsen-hfoss.blogspot.com 
-feed: http://kocsen-hfoss.blogspot.com/feeds/posts/default?alt=rss
+feed: http://kocsen-hfoss.blogspot.com/feeds/posts/default?alt=rss&redirect=false&max-results=50
 forges:
   - https://github.com/kocsenc
 irc: kocsen
@@ -27,7 +27,7 @@ hw:
   profile2: http://kocsen-hfoss.blogspot.com/2015/04/company-profile-3-coinbase.html
   preso2: https://drive.google.com/open?id=1yqp5cTI1MJM7xrnimqaGh5fE3jJyfDc_eVY1EkgmyHU&authuser=0
   litreview8: http://kocsen-hfoss.blogspot.com/2015/03/lit-review-9.html
-  litreview9: http://kocsen-hfoss.blogspot.com/2015/03/lit-review-10.html
+  litreview9: http://kocsen-hfoss.blogspot.com/2015/05/lit-review-10.html 
   meetup0: http://kocsen-hfoss.blogspot.com/2015/04/meetup.html
   meetup1: http://kocsen-hfoss.blogspot.com/2015/04/brickhack-2015.html
   profile3: http://kocsen-hfoss.blogspot.com/2015/04/company-profile-4-gratipay.html
