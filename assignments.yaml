@@ -10,23 +10,19 @@ hw:
     - litreview6
     - litreview7
     - litreview8
+    - litreview9
     - vidreview1
     - teamprop0
+    - teamprop1
     - meetup0
     - profile0
     - profile1
+    - profile2
+    - profile3
+    - profile4
     - preso0
     - preso1
     - preso2
     - preso3
     - preso4
-      #- quiz1
-      #- quiz2
-    - bizprofile0
-    - bizprofile1
-    - bizprofile2
-    - bizprofile3
-    - bizprofile4
-      #- bizprofile6
-      #- bizprofile7
-      #- bizprofile8
+    - finalquestions
