@@ -19,6 +19,9 @@ hackathon6: http://ghost-alexandriamack.rhcloud.com/shannon-valor-ethics-in-deve
 hackathon7: http://ghost-alexandriamack.rhcloud.com/pycon-day-1
 hackathon8: http://ghost-alexandriamack.rhcloud.com/pycon-day-2
 hackathon9: http://ghost-alexandriamack.rhcloud.com/pycon-day-3
+downstream1: https://github.com/amm4108/SteampunkRochester/pull/3
+downstream2: https://github.com/amm4108/AngleGators/pull/11
+downstream3: https://github.com/amm4108/AngleGators/pull/33
 hw:
   firstflight: http://ghost-alexandriamack.rhcloud.com/first-flight-2015/
   litreview0: http://ghost-alexandriamack.rhcloud.com/foss-legal-primer-lit-review
