@@ -1,29 +1,43 @@
-blog: http://blog-fortnight.rhcloud.com/
-feed: http://blog-fortnight.rhcloud.com/rss
+blog: https://fortnightblog.wordpress.com/
+feed: https://fortnightblog.wordpress.com/feed
 forges:
   - http://github.com/fortnight
 irc: fortnight
 name: fortnight
 rit_dce: fortnight
 hw:
-  firstflight: http://blog-fortnight.rhcloud.com/first-flight-streching-out-my-biz-legs/
-  litreview0: http://blog-fortnight.rhcloud.com/litreview0-a-legal-issues-premier-for-open-source-and-free-software-projects/
-  vidreview0: http://blog-fortnight.rhcloud.com/videoreview0-everything-is-a-remix/
-  litreview1: http://blog-fortnight.rhcloud.com/litreview1-copyleft-and-the-gnu-gpl-a-comprehensive-total-guide/
-  litreview2: http://blog-fortnight.rhcloud.com/litreview2-itunes-tos-fedora-project-contributors-agreement-python-software-foundation-cla/
-  litreview3: http://blog-fortnight.rhcloud.com/litreview3-a-legal-issues-premier-for-open-source-and-free-software-projects-chapter-4/
-  litreview4: http://blog-fortnight.rhcloud.com/litreview4-promises-pledges-and-comparisons/
-  litreview5: http://blog-fortnight.rhcloud.com/litreview5-a-legal-issues-premier-for-open-source-and-free-software-projects-chapter-5/
-  vidreview1: http://blog-fortnight.rhcloud.com/vidreview1-karen-sandler-trademarks-and-your-foss-project/
-  litreview6: http://blog-fortnight.rhcloud.com/litreview6-software-freedom-law-center-premier-chapter-3/
-  litreview7: http://blog-fortnight.rhcloud.com/litreview7-gpl-chapter-12-osi-business-model/
-  teamprop0: http://blog-fortnight.rhcloud.com/team-proposal0-opengl/
-  prezo0: https://github.com/brendanwhitfield/opengl_presentation/blob/master/OpenGL.pdf
-  profile0: https://docs.google.com/a/g.rit.edu/document/d/17kDuWtgfHn-bvWmwX_MOTFk39C7pW8OKiVMNDHvQ_qM/edit?usp=sharing
-  teamprop1: http://blog-fortnight.rhcloud.com/teamprop1-software-in-the-public-interest/
-  litreview8: http://blog-fortnight.rhcloud.com/litreview8-nobel-popular-economics-sciences-2014/
-  prezo1: https://github.com/brendanwhitfield/spi_presentation/blob/master/Software_in_the_Public_Interest.pdf
-  teamprop2: http://blog-fortnight.rhcloud.com/team-proposal2-ouya/
-  profile1: https://docs.google.com/a/g.rit.edu/document/d/1k3iDTAcHL30tsz8qTmPSRymaYJwbUt7a-oVWvSjqolU/edit?usp=sharing
-  litreview9: http://blog-fortnight.rhcloud.com/litreview9-quantifying-the-value-of-open-source-development/
-  finalquestions: blog-fortnight.rhcloud.com/final-presentation-questions/
+  firstflight: https://fortnightblog.wordpress.com/2015/05/19/double-time-bizleg-first-flight/
+  litreview0: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview0-a-legal-issues-premier-for-open-source-and-free-software-projects/
+  vidreview0: https://fortnightblog.wordpress.com/2015/05/19/double-time-videoreview0-everything-is-a-remix/
+  litreview1: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview1-copyleft-and-the-gnu-gpl-a-comprehensive-total-guide/
+  litreview2: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview2-itunes-tos-fedora-project-contributors-agreement-python-software-foundation-cla/
+  litreview3: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview3-a-legal-issues-premier-for-open-source-and-free-software-projects-chapter-4/
+  litreview4: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview4-promises-pledges-and-comparisons/
+  litreview5: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview6-software-freedom-law-center-premier-chapter-3/
+  vidreview1: https://fortnightblog.wordpress.com/2015/05/19/double-time-vidreview1-karen-sandler-trademarks-and-your-foss-project/
+  litreview6: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview6-software-freedom-law-center-premier-chapter-3/
+  litreview7: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview7-gpl-chapter-12-osi-business-model/
+  teamprop0: https://fortnightblog.wordpress.com/2015/05/19/double-time-team-prop0-opengl/
+  preso0: https://github.com/brendanwhitfield/opengl_presentation/blob/master/OpenGL.pdf
+  profile0: https://fortnightblog.wordpress.com/2015/05/19/double-time-opengl-profile/
+  teamprop1: https://fortnightblog.wordpress.com/2015/05/19/double-time-teamprop1-software-in-the-public-interest/
+  litreview8: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview8-nobel-popular-economics-sciences-2014/
+  preso1: https://github.com/brendanwhitfield/spi_presentation/blob/master/Software_in_the_Public_Interest.pdf
+  teamprop2: https://fortnightblog.wordpress.com/2015/05/19/double-time-team-proposal-2-ouya/
+  profile1: https://fortnightblog.wordpress.com/2015/05/19/double-time-software-in-the-public-interest-profile/
+  litreview9: https://fortnightblog.wordpress.com/2015/05/19/double-time-litreview9-quantifying-the-value-of-open-source-development/
+  profile2: https://fortnightblog.wordpress.com/2015/05/19/double-time-profile2-ouya/
+  profile3: https://fortnightblog.wordpress.com/2015/05/19/double-time-profile3-patreon/
+  profile4: https://fortnightblog.wordpress.com/2015/05/19/double-time-profile-4-18f/
+  preso2: https://github.com/ajman1101/Biz-Leg-Presentations/blob/master/Ouya/Ouya_Presso.pdf
+  preso3: https://github.com/ajman1101/Biz-Leg-Presentations/blob/master/Patreon/Patreon_Presso.pdf
+  preso4: https://github.com/brendanwhitfield/Biz-Leg-Presentations/blob/master/18F/18F_Presso.pdf
+  teamprop3: https://fortnightblog.wordpress.com/2015/05/19/double-time-teamprop3-patreon/
+  teamprop4: https://fortnightblog.wordpress.com/2015/05/19/double-time-teamprop4-18f/
+  finalquestions: https://fortnightblog.wordpress.com/2015/05/12/final-questions/
+  meetup0: https://fortnightblog.wordpress.com/2015/05/19/double-time-meetup0-mozilla-science-lab/
+  meetup1: https://fortnightblog.wordpress.com/2015/05/19/double-time-meetup1-gabriella-coleman-and-astra-taylor/
+  meetup2: https://fortnightblog.wordpress.com/2015/05/19/double-time-meetup2-molly-sauter-and-the-coming-swarm/
+  Hackathon0: https://fortnightblog.wordpress.com/2015/05/19/double-time-home-stretch-hackathon/
+  meetup3: https://fortnightblog.wordpress.com/2015/05/19/double-time-meetup3-mozilla-science-lab-monthly-etherpad-meetup/
+  finalanswers: https://fortnightblog.wordpress.com/2015/05/19/double-time-bizleg-final-answers/
