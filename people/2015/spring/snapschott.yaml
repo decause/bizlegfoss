@@ -1,5 +1,5 @@
 blog: http://bizlegfoss.blogspot.com/
-feed: http://bizlegfoss.blogspot.com/feeds/posts/default?alt=rss
+feed: http://bizlegfoss.blogspot.com/feeds/posts/default?max-results=50
 forges:
   - https://github.com/snapschott
 irc: snapschott
