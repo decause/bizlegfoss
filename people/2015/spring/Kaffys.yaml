@@ -29,10 +29,11 @@ hw:
   preso2: https://drive.google.com/open?id=1d0ZTKQnv9-883YchbjZ5rf5Xj5HbcpGH4GuZBSeLx18&authuser=0 
   preso3: https://drive.google.com/open?id=1-kmRXtZArbLit8129cN9EcnpGmVAhZCVImaVWoFYDVo&authuser=0
   preso4: https://drive.google.com/open?id=1Fp5Ke8bdNRXvw0EXpwIYLZ4OUrLn2FnncBgRpGGU7zA&authuser=0
-  profile0: http://kaffys.github.io/Drupal/
-  profile1: http://kaffys.github.io/Eclipse/
-  profile2: http://kaffys.github.io/CodeCombat/
-  profile3: http://kaffys.github.io/KickStarter/
+  profile0: http://kaffys.github.io/design/Drupal/
+  profile1: http://kaffys.github.io/design/Eclipse/
+  #profile2: http://kaffys.github.io/CodeCombat/
+  # CodeCombat actually points to kickstarter, and kickstarter is 404
+  profile3: http://kaffys.github.io/design/CodeCombat
   profile4: http://kaffys.github.io/Tor/
   finalquestions: http://kaffys.github.io/finalquestions/
   finalanswers: http://kaffys.github.io/design/final/
