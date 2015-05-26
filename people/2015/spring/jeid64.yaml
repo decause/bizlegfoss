@@ -21,11 +21,11 @@ hw:
   teamprop2: http://fossclassjeid64.blogspot.com/2015/03/team-proposal-2-beagleboard.html
   teamprop3: http://fossclassjeid64.blogspot.com/2015/05/teamprop-3-crowdsourcing.html
   teamprop4: http://fossclassjeid64.blogspot.com/2015/05/teamprop-4-sugarlabs.html
-  bizprofile0: https://github.com/msoucy/bizleg-profiles/tree/master/profile0.md
-  bizprofile1: https://github.com/msoucy/bizleg-profiles/tree/master/profile1.md
-  bizprofile2: https://github.com/msoucy/bizleg-profiles/tree/master/profile2.md
-  bizprofile3: https://github.com/msoucy/bizleg-profiles/tree/master/profile3.md
-  bizprofile4: https://github.com/msoucy/bizleg-profiles/tree/master/profile4.md
+  profile0: https://github.com/msoucy/bizleg-profiles/tree/master/profile0.md
+  profile1: https://github.com/msoucy/bizleg-profiles/tree/master/profile1.md
+  profile2: https://github.com/msoucy/bizleg-profiles/tree/master/profile2.md
+  profile3: https://github.com/msoucy/bizleg-profiles/tree/master/profile3.md
+  profile4: https://github.com/msoucy/bizleg-profiles/tree/master/profile4.md
   preso0: http://msoucy.github.io/bizleg-profiles/profile0/#/
   preso1: http://msoucy.github.io/bizleg-profiles/profile1/#/
   preso2: http://msoucy.github.io/bizleg-profiles/profile2/#/
