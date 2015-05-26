@@ -11,7 +11,8 @@ hw:
   vidreview0: http://kaffys.github.io/bizleg/vidreview/
   litreview0: http://kaffys.github.io/bizleg/litreview1/
   litreview1: http://kaffys.github.io/bizleg/litreview2/
-  litreview2: http://kaffys.github.io/bizleg/litreview2/
+  #http://kaffys.github.io/bizleg/litreview3/ is a 404
+  #litreview2: 
   litreview3: http://kaffys.github.io/bizleg/litreview4/
   litreview4: http://kaffys.github.io/bizleg/litreview4/
   litreview5: http://kaffys.github.io/bizleg/litreview5/
