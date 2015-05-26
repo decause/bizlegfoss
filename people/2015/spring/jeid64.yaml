@@ -1,5 +1,5 @@
 blog: http://fossclassjeid64.blogspot.com/
-feed: http://fossclassjeid64.blogspot.com/feeds/posts/default?alt=rss
+feed: http://fossclassjeid64.blogspot.com/feeds/posts/default?alt=rss&redirect=false&max-results=50
 forges:
     - http://github.com/jeid64
 irc: jeid64
